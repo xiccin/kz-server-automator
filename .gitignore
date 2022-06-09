@@ -1,1 +1,6 @@
 *.log
+*.sq3
+globalapi-key.cfg
+data/csgo/addons/sourcemod/data/gokz-replays
+
+!kzlj-sqlite.sq3
