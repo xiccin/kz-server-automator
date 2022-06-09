@@ -21,5 +21,5 @@ vim container-bootstrap.sh
 
 run 
 ```
-./container-bootstrap.sh
+./container-bootstrap.sh console
 ```
