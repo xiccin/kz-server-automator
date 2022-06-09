@@ -8,18 +8,17 @@ cd /root/steamcmd
     +app_update 740 validate \
     +quit &>> /root/scripts/logs/setup.log
 
+echo -e "[*] preparing user data"
+
 rm -rf $SV_DIR/csgo/maps \
     $SV_DIR/csgo/materials \
     $SV_DIR/csgo/models \
     $SV_DIR/csgo/sound 
 
-
-echo -e "[*] preparing user data"
-
-ln -fs /root/data/fastdl/maps $SV_DIR/csgo/maps
-ln -fs /root/data/fastdl/materials $SV_DIR/csgo/materials
-ln -fs /root/data/fastdl/models $SV_DIR/csgo/models
-ln -fs /root/data/fastdl/sound $SV_DIR/csgo/sound
+ln -fs /root/data/fastdl/maps $SV_DIR/csgo/
+ln -fs /root/data/fastdl/materials $SV_DIR/csgo/
+ln -fs /root/data/fastdl/models $SV_DIR/csgo/
+ln -fs /root/data/fastdl/sound $SV_DIR/csgo/
 
 ls -1 /root/data/fastdl/maps | ack "bsp$" | sed "s/\.bsp//" > $SV_DIR/csgo/maplist.txt
 ln -fs $SV_DIR/csgo/maplist.txt $SV_DIR/csgo/mapcycle.txt

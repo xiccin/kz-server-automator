@@ -1,6 +1,12 @@
 *.log
 *.sq3
+
 globalapi-key.cfg
 data/csgo/addons/sourcemod/data/gokz-replays
+data/fastdl/maps/*
 
 !kzlj-sqlite.sq3
+!kz_rectangle.*
+!bkz_bonus_z1.*
+!kz_refract.*
+!kz_dakow.*
