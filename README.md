@@ -8,7 +8,7 @@ port 80 should be unused, docker-compose installed, ip should be static, port sp
 
 clone the repo:
 ```
-git clone https://github.com/xiccin/kz-server-automator`
+git clone https://github.com/xiccin/kz-server-automator
 ```
 
 
