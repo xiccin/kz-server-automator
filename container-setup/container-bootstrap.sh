@@ -1,8 +1,8 @@
 #!/bin/bash
 
 export \
-csgo_gslt="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX" \
-domain="localhost" \
+csgo_gslt="0CA8E4894E80E48BEBABCBF391A7FC50" \
+domain="kz.xicc.in" \
 name="kz-sv" \
 protocol="http" \
 csgo_port="27015" \
