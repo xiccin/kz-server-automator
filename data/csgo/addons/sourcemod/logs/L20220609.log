@@ -1,0 +1,411 @@
+L 06/09/2022 - 00:06:21: SourceMod log file session started (file "/root/kz-server/csgo/addons/sourcemod/logs/L20220609.log") (Version "1.10.0.6540")
+L 06/09/2022 - 00:06:21: [basecommands.smx] "zzzzz<13><STEAM_1:0:532464040><>" changed map to "de_train"
+L 06/09/2022 - 00:06:24: [SM] Changed map to "de_train"
+L 06/09/2022 - 00:06:25: -------- Mapchange to de_train --------
+L 06/09/2022 - 00:06:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 00:06:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 00:07:38: -------- Mapchange to de_train --------
+L 06/09/2022 - 00:07:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 00:07:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 00:09:10: [basecommands.smx] "zzzzz<14><STEAM_1:0:532464040><>" changed map to "kz_kzra_morath"
+L 06/09/2022 - 00:09:13: [SM] Changed map to "kz_kzra_morath"
+L 06/09/2022 - 00:09:14: -------- Mapchange to kz_kzra_morath --------
+L 06/09/2022 - 00:09:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 00:09:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 00:09:15: [SM] Changed map to "kz_kzra_morath"
+L 06/09/2022 - 00:09:16: -------- Mapchange to kz_kzra_morath --------
+L 06/09/2022 - 00:09:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 00:09:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 00:38:18: -------- Mapchange to kz_kzra_morath --------
+L 06/09/2022 - 00:38:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 00:38:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 00:41:34: -------- Mapchange to kz_kzra_morath --------
+L 06/09/2022 - 00:41:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 00:41:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 00:43:35: [basecommands.smx] "zzzzz<16><STEAM_1:0:532464040><>" changed map to "kz_spire"
+L 06/09/2022 - 00:43:38: [SM] Changed map to "kz_spire"
+L 06/09/2022 - 00:43:38: -------- Mapchange to kz_spire --------
+L 06/09/2022 - 00:43:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 00:43:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 00:43:40: [SM] Changed map to "kz_spire"
+L 06/09/2022 - 00:43:41: -------- Mapchange to kz_spire --------
+L 06/09/2022 - 00:43:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 00:43:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 00:59:39: -------- Mapchange to kz_spire --------
+L 06/09/2022 - 00:59:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 00:59:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 01:01:01: -------- Mapchange to kz_rectangle --------
+L 06/09/2022 - 01:01:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 01:01:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 01:02:26: -------- Mapchange to kz_rectangle --------
+L 06/09/2022 - 01:02:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 01:02:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 01:02:55: [basecommands.smx] "zzzzz<18><STEAM_1:0:532464040><>" changed map to "bkz_bonus_z1"
+L 06/09/2022 - 01:02:58: [SM] Changed map to "bkz_bonus_z1"
+L 06/09/2022 - 01:02:59: -------- Mapchange to bkz_bonus_z1 --------
+L 06/09/2022 - 01:02:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 01:02:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 01:03:00: [SM] Changed map to "bkz_bonus_z1"
+L 06/09/2022 - 01:03:01: -------- Mapchange to bkz_bonus_z1 --------
+L 06/09/2022 - 01:03:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 01:03:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 01:05:36: -------- Mapchange to bkz_bonus_z1 --------
+L 06/09/2022 - 01:05:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 01:05:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 01:07:38: -------- Mapchange to bkz_bonus_z1 --------
+L 06/09/2022 - 01:07:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 01:07:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 01:09:25: [basecommands.smx] "zzzzz<21><STEAM_1:0:532464040><>" changed map to "kz_rectangle"
+L 06/09/2022 - 01:09:28: [SM] Changed map to "kz_rectangle"
+L 06/09/2022 - 01:09:29: -------- Mapchange to kz_rectangle --------
+L 06/09/2022 - 01:09:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 01:09:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 01:14:28: -------- Mapchange to kz_rectangle --------
+L 06/09/2022 - 01:14:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 01:14:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 01:15:02: [basecommands.smx] "zzzzz<22><STEAM_1:0:532464040><>" changed map to "kz_evilcorp"
+L 06/09/2022 - 01:15:05: [SM] Changed map to "kz_evilcorp"
+L 06/09/2022 - 01:15:06: -------- Mapchange to kz_evilcorp --------
+L 06/09/2022 - 01:15:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 01:15:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 01:15:25: [basecommands.smx] "zzzzz<23><STEAM_1:0:532464040><>" changed map to "kz_rectangle"
+L 06/09/2022 - 01:15:28: [SM] Changed map to "kz_rectangle"
+L 06/09/2022 - 01:15:29: -------- Mapchange to kz_rectangle --------
+L 06/09/2022 - 01:15:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 01:15:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 01:15:48: [basecommands.smx] "zzzzz<24><STEAM_1:0:532464040><>" changed map to "kz_spire"
+L 06/09/2022 - 01:15:51: [SM] Changed map to "kz_spire"
+L 06/09/2022 - 01:15:52: -------- Mapchange to kz_spire --------
+L 06/09/2022 - 01:15:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 01:15:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 01:19:57: [basecommands.smx] "zzzzz<25><STEAM_1:0:532464040><>" changed map to "bkz_bonus_z1"
+L 06/09/2022 - 01:20:00: [SM] Changed map to "bkz_bonus_z1"
+L 06/09/2022 - 01:20:01: -------- Mapchange to bkz_bonus_z1 --------
+L 06/09/2022 - 01:20:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 01:20:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 01:21:02: -------- Mapchange to bkz_bonus_z1 --------
+L 06/09/2022 - 01:21:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 01:21:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 01:21:28: [basecommands.smx] "zzzzz<26><STEAM_1:0:532464040><>" changed map to "bkz_bonus_z1"
+L 06/09/2022 - 01:21:31: [SM] Changed map to "bkz_bonus_z1"
+L 06/09/2022 - 01:21:32: -------- Mapchange to bkz_bonus_z1 --------
+L 06/09/2022 - 01:21:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 01:21:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 01:22:55: -------- Mapchange to bkz_bonus_z1 --------
+L 06/09/2022 - 01:23:16: [basecommands.smx] "zzzzz<27><STEAM_1:0:532464040><>" changed map to "bkz_bonus_z1"
+L 06/09/2022 - 01:23:19: [SM] Changed map to "bkz_bonus_z1"
+L 06/09/2022 - 01:23:19: -------- Mapchange to bkz_bonus_z1 --------
+L 06/09/2022 - 01:23:54: [basecommands.smx] "zzzzz<28><STEAM_1:0:532464040><>" changed map to "bkz_bonus_z1"
+L 06/09/2022 - 01:23:57: [SM] Changed map to "bkz_bonus_z1"
+L 06/09/2022 - 01:23:58: -------- Mapchange to bkz_bonus_z1 --------
+L 06/09/2022 - 01:25:03: [basecommands.smx] "zzzzz<29><STEAM_1:0:532464040><>" changed map to "kz_spire"
+L 06/09/2022 - 01:25:06: [SM] Changed map to "kz_spire"
+L 06/09/2022 - 01:25:07: -------- Mapchange to kz_spire --------
+L 06/09/2022 - 01:38:01: SourceMod log file session started (file "/root/kz-server/csgo/addons/sourcemod/logs/L20220609.log") (Version "1.10.0.6540")
+L 06/09/2022 - 01:38:01: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 06/09/2022 - 01:39:09: -------- Mapchange to kz_rectangle --------
+L 06/09/2022 - 01:39:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 01:39:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 01:39:35: [basecommands.smx] "zzzzz<2><STEAM_1:0:532464040><>" changed map to "bkz_bonus_z1"
+L 06/09/2022 - 01:39:38: [SM] Changed map to "bkz_bonus_z1"
+L 06/09/2022 - 01:39:39: -------- Mapchange to bkz_bonus_z1 --------
+L 06/09/2022 - 01:39:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 01:39:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 01:39:59: [basecommands.smx] "zzzzz<3><STEAM_1:0:532464040><>" changed map to "kz_spire"
+L 06/09/2022 - 01:40:02: [SM] Changed map to "kz_spire"
+L 06/09/2022 - 01:40:03: -------- Mapchange to kz_spire --------
+L 06/09/2022 - 01:40:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 01:40:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 01:40:23: [basecommands.smx] "zzzzz<4><STEAM_1:0:532464040><>" changed map to "bkz_bonus_z1"
+L 06/09/2022 - 01:40:26: [SM] Changed map to "bkz_bonus_z1"
+L 06/09/2022 - 01:40:26: -------- Mapchange to bkz_bonus_z1 --------
+L 06/09/2022 - 01:40:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 01:40:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 01:41:24: [basecommands.smx] "zzzzz<5><STEAM_1:0:532464040><>" changed map to "bkz_bonus_z1"
+L 06/09/2022 - 01:41:27: [SM] Changed map to "bkz_bonus_z1"
+L 06/09/2022 - 01:41:28: -------- Mapchange to bkz_bonus_z1 --------
+L 06/09/2022 - 01:41:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 01:41:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 01:50:04: [basecommands.smx] "zzzzz<6><STEAM_1:0:532464040><>" changed map to "bkz_bonus_z1"
+L 06/09/2022 - 01:50:07: [SM] Changed map to "bkz_bonus_z1"
+L 06/09/2022 - 01:50:08: -------- Mapchange to bkz_bonus_z1 --------
+L 06/09/2022 - 01:50:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 01:50:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 02:10:04: Log file closed.
+L 06/09/2022 - 02:12:26: SourceMod log file session started (file "/root/kz-server/csgo/addons/sourcemod/logs/L20220609.log") (Version "1.10.0.6540")
+L 06/09/2022 - 02:12:26: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 06/09/2022 - 02:12:29: [SM] Changed map to "bkz_cauz_final"
+L 06/09/2022 - 02:12:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 02:12:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 02:12:29: -------- Mapchange to bkz_cauz_final --------
+L 06/09/2022 - 02:12:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 02:12:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 02:12:51: -------- Mapchange to bkz_cauz_final --------
+L 06/09/2022 - 02:12:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 02:12:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 02:17:55: Log file closed.
+L 06/09/2022 - 02:19:14: SourceMod log file session started (file "/root/kz-server/csgo/addons/sourcemod/logs/L20220609.log") (Version "1.10.0.6540")
+L 06/09/2022 - 02:19:14: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 06/09/2022 - 02:19:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 02:19:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 02:19:21: -------- Mapchange to bkz_cauz_final --------
+L 06/09/2022 - 02:19:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 02:19:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 02:19:54: [basecommands.smx] "zzzzz<2><STEAM_1:0:532464040><>" changed map to "bkz_bonus_z1"
+L 06/09/2022 - 02:19:57: [SM] Changed map to "bkz_bonus_z1"
+L 06/09/2022 - 02:19:57: -------- Mapchange to bkz_bonus_z1 --------
+L 06/09/2022 - 02:19:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 02:19:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 02:20:22: [basecommands.smx] "zzzzz<3><STEAM_1:0:532464040><>" changed map to "bkz_bonus_z1"
+L 06/09/2022 - 02:20:25: [SM] Changed map to "bkz_bonus_z1"
+L 06/09/2022 - 02:20:26: -------- Mapchange to bkz_bonus_z1 --------
+L 06/09/2022 - 02:20:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 02:20:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 02:21:13: [basecommands.smx] "zzzzz<4><STEAM_1:0:532464040><>" changed map to "bkz_bonus_z1"
+L 06/09/2022 - 02:21:16: [SM] Changed map to "bkz_bonus_z1"
+L 06/09/2022 - 02:21:16: -------- Mapchange to bkz_bonus_z1 --------
+L 06/09/2022 - 02:21:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 02:21:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 02:21:35: [basecommands.smx] "zzzzz<5><STEAM_1:0:532464040><>" changed map to "kz_spire"
+L 06/09/2022 - 02:21:38: [SM] Changed map to "kz_spire"
+L 06/09/2022 - 02:21:39: -------- Mapchange to kz_spire --------
+L 06/09/2022 - 02:21:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 02:21:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 02:22:57: [basecommands.smx] "zzzzz<6><STEAM_1:0:532464040><>" changed map to "bkz_bonus_z1"
+L 06/09/2022 - 02:23:00: [SM] Changed map to "bkz_bonus_z1"
+L 06/09/2022 - 02:23:00: -------- Mapchange to bkz_bonus_z1 --------
+L 06/09/2022 - 02:23:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 02:23:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 02:31:00: -------- Mapchange to bkz_bonus_z1 --------
+L 06/09/2022 - 02:31:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 02:31:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 02:49:16: [basecommands.smx] "zzzzz<7><STEAM_1:0:532464040><>" changed map to "bkz_bonus_z1"
+L 06/09/2022 - 02:49:19: [SM] Changed map to "bkz_bonus_z1"
+L 06/09/2022 - 02:49:19: -------- Mapchange to bkz_bonus_z1 --------
+L 06/09/2022 - 02:49:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 02:49:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 02:50:52: Log file closed.
+L 06/09/2022 - 02:50:59: SourceMod log file session started (file "/root/kz-server/csgo/addons/sourcemod/logs/L20220609.log") (Version "1.10.0.6540")
+L 06/09/2022 - 02:50:59: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 06/09/2022 - 02:51:37: -------- Mapchange to kz_rectangle --------
+L 06/09/2022 - 02:51:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 02:51:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 02:52:24: -------- Mapchange to kz_rectangle --------
+L 06/09/2022 - 02:52:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 02:52:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 02:52:57: [basecommands.smx] "zzzzz<3><STEAM_1:0:532464040><>" changed map to "kz_rectangle"
+L 06/09/2022 - 02:53:00: [SM] Changed map to "kz_rectangle"
+L 06/09/2022 - 02:53:00: -------- Mapchange to kz_rectangle --------
+L 06/09/2022 - 02:53:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 02:53:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 02:53:17: -------- Mapchange to kz_rectangle --------
+L 06/09/2022 - 02:53:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 02:53:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 02:53:34: -------- Mapchange to kz_rectangle --------
+L 06/09/2022 - 02:53:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 02:53:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 02:53:50: [basecommands.smx] "zzzzz<4><STEAM_1:0:532464040><>" changed map to "bkz_bonus_z1"
+L 06/09/2022 - 02:53:53: [SM] Changed map to "bkz_bonus_z1"
+L 06/09/2022 - 02:53:53: -------- Mapchange to bkz_bonus_z1 --------
+L 06/09/2022 - 02:53:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 02:53:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 02:54:13: [basecommands.smx] "zzzzz<5><STEAM_1:0:532464040><>" changed map to "kz_dakow"
+L 06/09/2022 - 02:54:17: [SM] Changed map to "kz_dakow"
+L 06/09/2022 - 02:54:17: -------- Mapchange to kz_dakow --------
+L 06/09/2022 - 02:54:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 02:54:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 06:14:12: -------- Mapchange to kz_dakow --------
+L 06/09/2022 - 06:14:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 06:14:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 06:23:47: -------- Mapchange to kz_dakow --------
+L 06/09/2022 - 06:23:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 06:23:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 06:25:20: -------- Mapchange to kz_rectangle --------
+L 06/09/2022 - 06:25:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 06:25:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 06:26:31: -------- Mapchange to kz_rectangle --------
+L 06/09/2022 - 06:26:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 06:26:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 06:28:25: Log file closed.
+L 06/09/2022 - 06:28:33: SourceMod log file session started (file "/root/kz-server/csgo/addons/sourcemod/logs/L20220609.log") (Version "1.10.0.6540")
+L 06/09/2022 - 06:28:33: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 06/09/2022 - 06:32:41: -------- Mapchange to kz_rectangle --------
+L 06/09/2022 - 06:32:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 06:32:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 06:33:19: [basecommands.smx] "zzzzz<2><STEAM_1:0:532464040><>" changed map to "kz_dakow"
+L 06/09/2022 - 06:33:22: [SM] Changed map to "kz_dakow"
+L 06/09/2022 - 06:33:23: -------- Mapchange to kz_dakow --------
+L 06/09/2022 - 06:33:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 06:33:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 07:08:16: -------- Mapchange to kz_dakow --------
+L 06/09/2022 - 07:08:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 07:08:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 07:09:02: [basecommands.smx] "zzzzz<4><STEAM_1:0:532464040><>" changed map to "bkz_bonus_z1"
+L 06/09/2022 - 07:09:05: [SM] Changed map to "bkz_bonus_z1"
+L 06/09/2022 - 07:09:05: -------- Mapchange to bkz_bonus_z1 --------
+L 06/09/2022 - 07:09:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 07:09:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 07:09:35: [basecommands.smx] "zzzzz<5><STEAM_1:0:532464040><>" changed map to "bkz_bonus_z1"
+L 06/09/2022 - 07:09:38: [SM] Changed map to "bkz_bonus_z1"
+L 06/09/2022 - 07:09:38: -------- Mapchange to bkz_bonus_z1 --------
+L 06/09/2022 - 07:09:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 07:09:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 07:20:16: SourceMod log file session started (file "/root/kz-server/csgo/addons/sourcemod/logs/L20220609.log") (Version "1.10.0.6540")
+L 06/09/2022 - 07:20:16: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 06/09/2022 - 07:28:31: Log file closed.
+L 06/09/2022 - 07:29:15: SourceMod log file session started (file "/root/kz-server/csgo/addons/sourcemod/logs/L20220609.log") (Version "1.10.0.6540")
+L 06/09/2022 - 07:29:15: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 06/09/2022 - 07:30:40: Log file closed.
+L 06/09/2022 - 07:48:07: SourceMod log file session started (file "/root/kz-server/csgo/addons/sourcemod/logs/L20220609.log") (Version "1.10.0.6540")
+L 06/09/2022 - 07:48:07: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 06/09/2022 - 07:48:16: -------- Mapchange to kz_rectangle --------
+L 06/09/2022 - 07:48:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 07:48:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 09:50:53: -------- Mapchange to kz_rectangle --------
+L 06/09/2022 - 09:50:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 09:50:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 10:32:52: -------- Mapchange to kz_rectangle --------
+L 06/09/2022 - 10:32:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 10:32:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 11:31:48: -------- Mapchange to kz_rectangle --------
+L 06/09/2022 - 11:31:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 11:31:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 11:33:20: [basecommands.smx] "zzzzz<5><STEAM_1:0:532464040><>" changed map to "kz_rectangle"
+L 06/09/2022 - 11:33:23: [SM] Changed map to "kz_rectangle"
+L 06/09/2022 - 11:33:24: -------- Mapchange to kz_rectangle --------
+L 06/09/2022 - 11:33:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 11:33:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 11:33:47: -------- Mapchange to kz_rectangle --------
+L 06/09/2022 - 11:33:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 11:33:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 11:49:55: [basecommands.smx] "zzzzz<6><STEAM_1:0:532464040><>" changed map to "kz_rectangle"
+L 06/09/2022 - 11:49:58: [SM] Changed map to "kz_rectangle"
+L 06/09/2022 - 11:49:58: -------- Mapchange to kz_rectangle --------
+L 06/09/2022 - 11:49:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 11:49:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 11:50:22: -------- Mapchange to kz_rectangle --------
+L 06/09/2022 - 11:50:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 11:50:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 11:53:07: Log file closed.
+L 06/09/2022 - 11:53:24: SourceMod log file session started (file "/root/kz-server/csgo/addons/sourcemod/logs/L20220609.log") (Version "1.10.0.6540")
+L 06/09/2022 - 11:53:24: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 06/09/2022 - 11:53:34: [weapons.smx] SQLite DB connection successful
+L 06/09/2022 - 11:53:34: [weapons.smx] Inactive players' data has been deleted
+L 06/09/2022 - 11:55:15: -------- Mapchange to kz_rectangle --------
+L 06/09/2022 - 11:55:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 11:55:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 11:55:22: [weapons.smx] Inactive players' data has been deleted
+L 06/09/2022 - 11:58:14: Log file closed.
+L 06/09/2022 - 11:58:51: SourceMod log file session started (file "/root/kz-server/csgo/addons/sourcemod/logs/L20220609.log") (Version "1.10.0.6540")
+L 06/09/2022 - 11:58:51: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 06/09/2022 - 11:59:01: [weapons.smx] SQLite DB connection successful
+L 06/09/2022 - 11:59:01: [weapons.smx] Inactive players' data has been deleted
+L 06/09/2022 - 11:59:03: -------- Mapchange to kz_rectangle --------
+L 06/09/2022 - 11:59:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 11:59:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 11:59:07: [weapons.smx] Inactive players' data has been deleted
+L 06/09/2022 - 12:01:27: Log file closed.
+L 06/09/2022 - 12:01:30: SourceMod log file session started (file "/root/kz-server/csgo/addons/sourcemod/logs/L20220609.log") (Version "1.10.0.6540")
+L 06/09/2022 - 12:01:30: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 06/09/2022 - 12:01:40: -------- Mapchange to kz_rectangle --------
+L 06/09/2022 - 12:01:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 12:01:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 12:01:45: [weapons.smx] Inactive players' data has been deleted
+L 06/09/2022 - 12:01:45: [weapons.smx] SQLite DB connection successful
+L 06/09/2022 - 12:01:45: [weapons.smx] Inactive players' data has been deleted
+L 06/09/2022 - 12:17:00: [basecommands.smx] "zzzzz<2><STEAM_1:0:532464040><>" changed map to "kz_rectangle"
+L 06/09/2022 - 12:17:03: [SM] Changed map to "kz_rectangle"
+L 06/09/2022 - 12:17:03: -------- Mapchange to kz_rectangle --------
+L 06/09/2022 - 12:17:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 12:17:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 12:17:10: [weapons.smx] Inactive players' data has been deleted
+L 06/09/2022 - 12:18:20: -------- Mapchange to kz_rectangle --------
+L 06/09/2022 - 12:18:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 12:18:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 12:18:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 12:18:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 12:18:27: [weapons.smx] Inactive players' data has been deleted
+L 06/09/2022 - 12:18:50: [basecommands.smx] "zzzzz<3><STEAM_1:0:532464040><>" changed map to "kz_rectangle"
+L 06/09/2022 - 12:18:53: [SM] Changed map to "kz_rectangle"
+L 06/09/2022 - 12:18:53: -------- Mapchange to kz_rectangle --------
+L 06/09/2022 - 12:18:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 12:18:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 12:18:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 12:18:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 12:18:58: [weapons.smx] Inactive players' data has been deleted
+L 06/09/2022 - 12:19:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 12:19:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 12:20:44: -------- Mapchange to kz_rectangle --------
+L 06/09/2022 - 12:20:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 12:20:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 12:20:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 12:20:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 12:20:51: [weapons.smx] Inactive players' data has been deleted
+L 06/09/2022 - 12:22:13: -------- Mapchange to kz_rectangle --------
+L 06/09/2022 - 12:22:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 12:22:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 12:22:20: [weapons.smx] Inactive players' data has been deleted
+L 06/09/2022 - 12:22:41: -------- Mapchange to kz_rectangle --------
+L 06/09/2022 - 12:22:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 12:22:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 12:22:45: [weapons.smx] Inactive players' data has been deleted
+L 06/09/2022 - 12:23:10: [SM] Changed map to "kz_redemption_csgo"
+L 06/09/2022 - 12:23:11: -------- Mapchange to kz_redemption_csgo --------
+L 06/09/2022 - 12:23:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 12:23:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 12:23:16: [weapons.smx] Inactive players' data has been deleted
+L 06/09/2022 - 12:23:41: [SM] Changed map to "kz_redline"
+L 06/09/2022 - 12:23:42: -------- Mapchange to kz_redline --------
+L 06/09/2022 - 12:23:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 12:23:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 12:23:50: [weapons.smx] Inactive players' data has been deleted
+L 06/09/2022 - 12:23:50: [SM] Changed map to "kz_refract"
+L 06/09/2022 - 12:23:50: -------- Mapchange to kz_refract --------
+L 06/09/2022 - 12:23:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 12:23:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 12:23:52: [SM] Changed map to "kz_refract"
+L 06/09/2022 - 12:23:52: -------- Mapchange to kz_refract --------
+L 06/09/2022 - 12:23:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 12:23:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 12:23:57: [weapons.smx] Inactive players' data has been deleted
+L 06/09/2022 - 12:24:00: -------- Mapchange to kz_refract --------
+L 06/09/2022 - 12:24:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 12:24:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 12:24:04: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/09/2022 - 12:24:04: [weapons.smx] Inactive players' data has been deleted
+L 06/09/2022 - 12:27:53: [basecommands.smx] "zzzzz<19><STEAM_1:0:532464040><>" changed map to "kz_refract"
+L 06/09/2022 - 12:27:56: [SM] Changed map to "kz_refract"
+L 06/09/2022 - 12:27:56: -------- Mapchange to kz_refract --------
+L 06/09/2022 - 12:27:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 12:27:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 12:28:03: [weapons.smx] Inactive players' data has been deleted
+L 06/09/2022 - 13:26:46: SourceMod log file session started (file "/root/kz-sv/csgo/addons/sourcemod/logs/L20220609.log") (Version "1.10.0.6540")
+L 06/09/2022 - 13:26:46: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 06/09/2022 - 13:26:53: [weapons.smx] SQLite DB connection successful
+L 06/09/2022 - 13:26:53: [weapons.smx] Inactive players' data has been deleted
+L 06/09/2022 - 13:27:19: -------- Mapchange to kz_rectangle --------
+L 06/09/2022 - 13:27:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 13:27:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 13:27:22: [weapons.smx] Inactive players' data has been deleted
+L 06/09/2022 - 13:27:23: [gokz-localdb.smx] Couldn't get country of zzzzz<2><STEAM_1:0:532464040><> (192.168.1.100).
+L 06/09/2022 - 13:28:57: -------- Mapchange to kz_rectangle --------
+L 06/09/2022 - 13:28:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 13:28:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 13:29:00: [weapons.smx] Inactive players' data has been deleted
+L 06/09/2022 - 13:29:01: [gokz-localdb.smx] Couldn't get country of zzzzz<3><STEAM_1:0:532464040><> (192.168.1.100).
+L 06/09/2022 - 13:29:37: -------- Mapchange to kz_rectangle --------
+L 06/09/2022 - 13:29:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 13:29:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 13:29:41: [gokz-localdb.smx] Couldn't get country of zzzzz<3><STEAM_1:0:532464040><> (192.168.1.100).
+L 06/09/2022 - 13:29:41: [weapons.smx] Inactive players' data has been deleted
+L 06/09/2022 - 13:29:52: -------- Mapchange to kz_rectangle --------
+L 06/09/2022 - 13:29:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/09/2022 - 13:29:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/09/2022 - 13:29:55: [gokz-localdb.smx] Couldn't get country of zzzzz<3><STEAM_1:0:532464040><> (192.168.1.100).
+L 06/09/2022 - 13:29:55: [weapons.smx] Inactive players' data has been deleted
+L 06/09/2022 - 13:31:06: Log file closed.
+L 06/09/2022 - 13:32:06: SourceMod log file session started (file "/root/kz-sv/csgo/addons/sourcemod/logs/L20220609.log") (Version "1.10.0.6540")
+L 06/09/2022 - 13:32:06: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 06/09/2022 - 13:32:13: [weapons.smx] SQLite DB connection successful
+L 06/09/2022 - 13:32:13: [weapons.smx] Inactive players' data has been deleted
+L 06/09/2022 - 13:33:11: Log file closed.

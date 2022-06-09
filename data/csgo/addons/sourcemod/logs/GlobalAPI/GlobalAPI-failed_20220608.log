@@ -1,0 +1,180 @@
+[GlobalAPI-Logging] 06/08/2022 - 12:28:29 (GOKZ Global) API call failed!
+[GlobalAPI-Logging] 06/08/2022 - 12:28:29  => Method: GET
+[GlobalAPI-Logging] 06/08/2022 - 12:28:29   => Status: 401
+[GlobalAPI-Logging] 06/08/2022 - 12:28:29    => URL: https://kztimerglobal.com/api/v2.0/auth/status
+[GlobalAPI-Logging] 06/08/2022 - 12:28:29      => Params: -
+[GlobalAPI-Logging] 06/08/2022 - 12:50:50 (GOKZ Global) API call failed!
+[GlobalAPI-Logging] 06/08/2022 - 12:50:50  => Method: GET
+[GlobalAPI-Logging] 06/08/2022 - 12:50:50   => Status: 401
+[GlobalAPI-Logging] 06/08/2022 - 12:50:50    => URL: https://kztimerglobal.com/api/v2.0/auth/status
+[GlobalAPI-Logging] 06/08/2022 - 12:50:50      => Params: -
+[GlobalAPI-Logging] 06/08/2022 - 12:50:50 (GOKZ Global) API call failed!
+[GlobalAPI-Logging] 06/08/2022 - 12:50:50  => Method: GET
+[GlobalAPI-Logging] 06/08/2022 - 12:50:50   => Status: 401
+[GlobalAPI-Logging] 06/08/2022 - 12:50:50    => URL: https://kztimerglobal.com/api/v2.0/auth/status
+[GlobalAPI-Logging] 06/08/2022 - 12:50:50      => Params: -
+[GlobalAPI-Logging] 06/08/2022 - 12:59:56 (GOKZ Global) API call failed!
+[GlobalAPI-Logging] 06/08/2022 - 12:59:56  => Method: GET
+[GlobalAPI-Logging] 06/08/2022 - 12:59:56   => Status: 401
+[GlobalAPI-Logging] 06/08/2022 - 12:59:56    => URL: https://kztimerglobal.com/api/v2.0/auth/status
+[GlobalAPI-Logging] 06/08/2022 - 12:59:56      => Params: -
+[GlobalAPI-Logging] 06/08/2022 - 12:59:56 (GOKZ Global) API call failed!
+[GlobalAPI-Logging] 06/08/2022 - 12:59:56  => Method: GET
+[GlobalAPI-Logging] 06/08/2022 - 12:59:56   => Status: 401
+[GlobalAPI-Logging] 06/08/2022 - 12:59:56    => URL: https://kztimerglobal.com/api/v2.0/auth/status
+[GlobalAPI-Logging] 06/08/2022 - 12:59:56      => Params: -
+[GlobalAPI-Logging] 06/08/2022 - 13:00:06 (GOKZ Global) API call failed!
+[GlobalAPI-Logging] 06/08/2022 - 13:00:06  => Method: GET
+[GlobalAPI-Logging] 06/08/2022 - 13:00:06   => Status: 401
+[GlobalAPI-Logging] 06/08/2022 - 13:00:06    => URL: https://kztimerglobal.com/api/v2.0/auth/status
+[GlobalAPI-Logging] 06/08/2022 - 13:00:06      => Params: -
+[GlobalAPI-Logging] 06/08/2022 - 13:00:06 (GOKZ Global) API call failed!
+[GlobalAPI-Logging] 06/08/2022 - 13:00:06  => Method: GET
+[GlobalAPI-Logging] 06/08/2022 - 13:00:06   => Status: 401
+[GlobalAPI-Logging] 06/08/2022 - 13:00:06    => URL: https://kztimerglobal.com/api/v2.0/auth/status
+[GlobalAPI-Logging] 06/08/2022 - 13:00:06      => Params: -
+[GlobalAPI-Logging] 06/08/2022 - 13:09:15 (GOKZ Global) API call failed!
+[GlobalAPI-Logging] 06/08/2022 - 13:09:15  => Method: GET
+[GlobalAPI-Logging] 06/08/2022 - 13:09:15   => Status: 400
+[GlobalAPI-Logging] 06/08/2022 - 13:09:15    => URL: https://kztimerglobal.com/api/v2.0/player_ranks
+[GlobalAPI-Logging] 06/08/2022 - 13:09:15      => Params: ?mode_ids=200&tickrates=128&stages=0&steamid64s=STEAM_ID_STOP_IGNORI
+[GlobalAPI-Logging] 06/08/2022 - 13:09:15 (GOKZ Global) API call failed!
+[GlobalAPI-Logging] 06/08/2022 - 13:09:15  => Method: GET
+[GlobalAPI-Logging] 06/08/2022 - 13:09:15   => Status: 400
+[GlobalAPI-Logging] 06/08/2022 - 13:09:15    => URL: https://kztimerglobal.com/api/v2.0/player_ranks
+[GlobalAPI-Logging] 06/08/2022 - 13:09:15      => Params: ?has_teleports=false&mode_ids=200&tickrates=128&stages=0&steamid64s=STEAM_ID_STOP_IGNORI
+[GlobalAPI-Logging] 06/08/2022 - 13:09:15 (GOKZ Global) API call failed!
+[GlobalAPI-Logging] 06/08/2022 - 13:09:15  => Method: GET
+[GlobalAPI-Logging] 06/08/2022 - 13:09:15   => Status: 400
+[GlobalAPI-Logging] 06/08/2022 - 13:09:15    => URL: https://kztimerglobal.com/api/v2.0/player_ranks
+[GlobalAPI-Logging] 06/08/2022 - 13:09:15      => Params: ?map_ids=553&mode_ids=200&tickrates=128&stages=0&steamid64s=STEAM_ID_STOP_IGNORI
+[GlobalAPI-Logging] 06/08/2022 - 13:09:15 (GOKZ Global) API call failed!
+[GlobalAPI-Logging] 06/08/2022 - 13:09:15  => Method: GET
+[GlobalAPI-Logging] 06/08/2022 - 13:09:15   => Status: 400
+[GlobalAPI-Logging] 06/08/2022 - 13:09:15    => URL: https://kztimerglobal.com/api/v2.0/player_ranks
+[GlobalAPI-Logging] 06/08/2022 - 13:09:15      => Params: ?has_teleports=false&map_ids=553&mode_ids=200&tickrates=128&stages=0&steamid64s=STEAM_ID_STOP_IGNORI
+[GlobalAPI-Logging] 06/08/2022 - 13:23:08 (GOKZ Global) API call failed!
+[GlobalAPI-Logging] 06/08/2022 - 13:23:08  => Method: GET
+[GlobalAPI-Logging] 06/08/2022 - 13:23:08   => Status: 401
+[GlobalAPI-Logging] 06/08/2022 - 13:23:08    => URL: https://kztimerglobal.com/api/v2.0/auth/status
+[GlobalAPI-Logging] 06/08/2022 - 13:23:08      => Params: -
+[GlobalAPI-Logging] 06/08/2022 - 13:23:08 (GOKZ Global) API call failed!
+[GlobalAPI-Logging] 06/08/2022 - 13:23:08  => Method: GET
+[GlobalAPI-Logging] 06/08/2022 - 13:23:08   => Status: 401
+[GlobalAPI-Logging] 06/08/2022 - 13:23:08    => URL: https://kztimerglobal.com/api/v2.0/auth/status
+[GlobalAPI-Logging] 06/08/2022 - 13:23:08      => Params: -
+[GlobalAPI-Logging] 06/08/2022 - 13:23:08 (GOKZ Global) API call failed!
+[GlobalAPI-Logging] 06/08/2022 - 13:23:08  => Method: GET
+[GlobalAPI-Logging] 06/08/2022 - 13:23:08   => Status: 401
+[GlobalAPI-Logging] 06/08/2022 - 13:23:08    => URL: https://kztimerglobal.com/api/v2.0/auth/status
+[GlobalAPI-Logging] 06/08/2022 - 13:23:08      => Params: -
+[GlobalAPI-Logging] 06/08/2022 - 13:30:26 (GOKZ Global) API call failed!
+[GlobalAPI-Logging] 06/08/2022 - 13:30:26  => Method: GET
+[GlobalAPI-Logging] 06/08/2022 - 13:30:26   => Status: 401
+[GlobalAPI-Logging] 06/08/2022 - 13:30:26    => URL: https://kztimerglobal.com/api/v2.0/auth/status
+[GlobalAPI-Logging] 06/08/2022 - 13:30:26      => Params: -
+[GlobalAPI-Logging] 06/08/2022 - 13:30:27 (GOKZ Global) API call failed!
+[GlobalAPI-Logging] 06/08/2022 - 13:30:27  => Method: GET
+[GlobalAPI-Logging] 06/08/2022 - 13:30:27   => Status: 401
+[GlobalAPI-Logging] 06/08/2022 - 13:30:27    => URL: https://kztimerglobal.com/api/v2.0/auth/status
+[GlobalAPI-Logging] 06/08/2022 - 13:30:27      => Params: -
+[GlobalAPI-Logging] 06/08/2022 - 13:35:23 (GOKZ Global) API call failed!
+[GlobalAPI-Logging] 06/08/2022 - 13:35:23  => Method: GET
+[GlobalAPI-Logging] 06/08/2022 - 13:35:23   => Status: 401
+[GlobalAPI-Logging] 06/08/2022 - 13:35:23    => URL: https://kztimerglobal.com/api/v2.0/auth/status
+[GlobalAPI-Logging] 06/08/2022 - 13:35:23      => Params: -
+[GlobalAPI-Logging] 06/08/2022 - 13:35:24 (GOKZ Global) API call failed!
+[GlobalAPI-Logging] 06/08/2022 - 13:35:24  => Method: GET
+[GlobalAPI-Logging] 06/08/2022 - 13:35:24   => Status: 401
+[GlobalAPI-Logging] 06/08/2022 - 13:35:24    => URL: https://kztimerglobal.com/api/v2.0/auth/status
+[GlobalAPI-Logging] 06/08/2022 - 13:35:24      => Params: -
+[GlobalAPI-Logging] 06/08/2022 - 14:11:50 (GOKZ Global) API call failed!
+[GlobalAPI-Logging] 06/08/2022 - 14:11:50  => Method: GET
+[GlobalAPI-Logging] 06/08/2022 - 14:11:50   => Status: 401
+[GlobalAPI-Logging] 06/08/2022 - 14:11:50    => URL: https://kztimerglobal.com/api/v2.0/auth/status
+[GlobalAPI-Logging] 06/08/2022 - 14:11:50      => Params: -
+[GlobalAPI-Logging] 06/08/2022 - 14:11:50 (GOKZ Global) API call failed!
+[GlobalAPI-Logging] 06/08/2022 - 14:11:50  => Method: GET
+[GlobalAPI-Logging] 06/08/2022 - 14:11:50   => Status: 401
+[GlobalAPI-Logging] 06/08/2022 - 14:11:50    => URL: https://kztimerglobal.com/api/v2.0/auth/status
+[GlobalAPI-Logging] 06/08/2022 - 14:11:50      => Params: -
+[GlobalAPI-Logging] 06/08/2022 - 14:20:53 (GOKZ Global) API call failed!
+[GlobalAPI-Logging] 06/08/2022 - 14:20:53  => Method: GET
+[GlobalAPI-Logging] 06/08/2022 - 14:20:53   => Status: 401
+[GlobalAPI-Logging] 06/08/2022 - 14:20:53    => URL: https://kztimerglobal.com/api/v2.0/auth/status
+[GlobalAPI-Logging] 06/08/2022 - 14:20:53      => Params: -
+[GlobalAPI-Logging] 06/08/2022 - 14:20:53 (GOKZ Global) API call failed!
+[GlobalAPI-Logging] 06/08/2022 - 14:20:53  => Method: GET
+[GlobalAPI-Logging] 06/08/2022 - 14:20:53   => Status: 401
+[GlobalAPI-Logging] 06/08/2022 - 14:20:53    => URL: https://kztimerglobal.com/api/v2.0/auth/status
+[GlobalAPI-Logging] 06/08/2022 - 14:20:53      => Params: -
+[GlobalAPI-Logging] 06/08/2022 - 14:27:13 (GOKZ Global) API call failed!
+[GlobalAPI-Logging] 06/08/2022 - 14:27:13  => Method: GET
+[GlobalAPI-Logging] 06/08/2022 - 14:27:13   => Status: 401
+[GlobalAPI-Logging] 06/08/2022 - 14:27:13    => URL: https://kztimerglobal.com/api/v2.0/auth/status
+[GlobalAPI-Logging] 06/08/2022 - 14:27:13      => Params: -
+[GlobalAPI-Logging] 06/08/2022 - 14:27:13 (GOKZ Global) API call failed!
+[GlobalAPI-Logging] 06/08/2022 - 14:27:13  => Method: GET
+[GlobalAPI-Logging] 06/08/2022 - 14:27:13   => Status: 401
+[GlobalAPI-Logging] 06/08/2022 - 14:27:13    => URL: https://kztimerglobal.com/api/v2.0/auth/status
+[GlobalAPI-Logging] 06/08/2022 - 14:27:13      => Params: -
+[GlobalAPI-Logging] 06/08/2022 - 14:29:25 (GOKZ Global) API call failed!
+[GlobalAPI-Logging] 06/08/2022 - 14:29:25  => Method: GET
+[GlobalAPI-Logging] 06/08/2022 - 14:29:25   => Status: 401
+[GlobalAPI-Logging] 06/08/2022 - 14:29:25    => URL: https://kztimerglobal.com/api/v2.0/auth/status
+[GlobalAPI-Logging] 06/08/2022 - 14:29:25      => Params: -
+[GlobalAPI-Logging] 06/08/2022 - 14:29:26 (GOKZ Global) API call failed!
+[GlobalAPI-Logging] 06/08/2022 - 14:29:26  => Method: GET
+[GlobalAPI-Logging] 06/08/2022 - 14:29:26   => Status: 401
+[GlobalAPI-Logging] 06/08/2022 - 14:29:26    => URL: https://kztimerglobal.com/api/v2.0/auth/status
+[GlobalAPI-Logging] 06/08/2022 - 14:29:26      => Params: -
+[GlobalAPI-Logging] 06/08/2022 - 15:08:54 (GOKZ Global) API call failed!
+[GlobalAPI-Logging] 06/08/2022 - 15:08:54  => Method: GET
+[GlobalAPI-Logging] 06/08/2022 - 15:08:54   => Status: 401
+[GlobalAPI-Logging] 06/08/2022 - 15:08:54    => URL: https://kztimerglobal.com/api/v2.0/auth/status
+[GlobalAPI-Logging] 06/08/2022 - 15:08:54      => Params: -
+[GlobalAPI-Logging] 06/08/2022 - 15:08:54 (GOKZ Global) API call failed!
+[GlobalAPI-Logging] 06/08/2022 - 15:08:54  => Method: GET
+[GlobalAPI-Logging] 06/08/2022 - 15:08:54   => Status: 401
+[GlobalAPI-Logging] 06/08/2022 - 15:08:54    => URL: https://kztimerglobal.com/api/v2.0/auth/status
+[GlobalAPI-Logging] 06/08/2022 - 15:08:54      => Params: -
+[GlobalAPI-Logging] 06/08/2022 - 17:15:40 (GOKZ Global) API call failed!
+[GlobalAPI-Logging] 06/08/2022 - 17:15:40  => Method: GET
+[GlobalAPI-Logging] 06/08/2022 - 17:15:40   => Status: 401
+[GlobalAPI-Logging] 06/08/2022 - 17:15:40    => URL: https://kztimerglobal.com/api/v2.0/auth/status
+[GlobalAPI-Logging] 06/08/2022 - 17:15:40      => Params: -
+[GlobalAPI-Logging] 06/08/2022 - 17:15:40 (GOKZ Global) API call failed!
+[GlobalAPI-Logging] 06/08/2022 - 17:15:40  => Method: GET
+[GlobalAPI-Logging] 06/08/2022 - 17:15:40   => Status: 401
+[GlobalAPI-Logging] 06/08/2022 - 17:15:40    => URL: https://kztimerglobal.com/api/v2.0/auth/status
+[GlobalAPI-Logging] 06/08/2022 - 17:15:40      => Params: -
+[GlobalAPI-Logging] 06/08/2022 - 20:04:36 (GOKZ Global) API call failed!
+[GlobalAPI-Logging] 06/08/2022 - 20:04:36  => Method: GET
+[GlobalAPI-Logging] 06/08/2022 - 20:04:36   => Status: 401
+[GlobalAPI-Logging] 06/08/2022 - 20:04:36    => URL: https://kztimerglobal.com/api/v2.0/auth/status
+[GlobalAPI-Logging] 06/08/2022 - 20:04:36      => Params: -
+[GlobalAPI-Logging] 06/08/2022 - 20:04:36 (GOKZ Global) API call failed!
+[GlobalAPI-Logging] 06/08/2022 - 20:04:36  => Method: GET
+[GlobalAPI-Logging] 06/08/2022 - 20:04:36   => Status: 401
+[GlobalAPI-Logging] 06/08/2022 - 20:04:36    => URL: https://kztimerglobal.com/api/v2.0/auth/status
+[GlobalAPI-Logging] 06/08/2022 - 20:04:36      => Params: -
+[GlobalAPI-Logging] 06/08/2022 - 22:40:55 (GOKZ Global) API call failed!
+[GlobalAPI-Logging] 06/08/2022 - 22:40:55  => Method: GET
+[GlobalAPI-Logging] 06/08/2022 - 22:40:55   => Status: 401
+[GlobalAPI-Logging] 06/08/2022 - 22:40:55    => URL: https://kztimerglobal.com/api/v2.0/auth/status
+[GlobalAPI-Logging] 06/08/2022 - 22:40:55      => Params: -
+[GlobalAPI-Logging] 06/08/2022 - 22:40:55 (GOKZ Global) API call failed!
+[GlobalAPI-Logging] 06/08/2022 - 22:40:55  => Method: GET
+[GlobalAPI-Logging] 06/08/2022 - 22:40:55   => Status: 401
+[GlobalAPI-Logging] 06/08/2022 - 22:40:55    => URL: https://kztimerglobal.com/api/v2.0/auth/status
+[GlobalAPI-Logging] 06/08/2022 - 22:40:55      => Params: -
+[GlobalAPI-Logging] 06/08/2022 - 23:53:33 (GOKZ Global) API call failed!
+[GlobalAPI-Logging] 06/08/2022 - 23:53:33  => Method: GET
+[GlobalAPI-Logging] 06/08/2022 - 23:53:33   => Status: 401
+[GlobalAPI-Logging] 06/08/2022 - 23:53:33    => URL: https://kztimerglobal.com/api/v2.0/auth/status
+[GlobalAPI-Logging] 06/08/2022 - 23:53:33      => Params: -
+[GlobalAPI-Logging] 06/08/2022 - 23:53:33 (GOKZ Global) API call failed!
+[GlobalAPI-Logging] 06/08/2022 - 23:53:33  => Method: GET
+[GlobalAPI-Logging] 06/08/2022 - 23:53:33   => Status: 401
+[GlobalAPI-Logging] 06/08/2022 - 23:53:33    => URL: https://kztimerglobal.com/api/v2.0/auth/status
+[GlobalAPI-Logging] 06/08/2022 - 23:53:33      => Params: -

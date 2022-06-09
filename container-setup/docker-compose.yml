@@ -1,0 +1,36 @@
+services:
+
+  debian:
+    container_name: "${name}"
+    image:          "debian"
+    network_mode:   "host"
+    restart:        "on-failure"
+    
+    stdin_open:     true
+    tty:            true
+    command:        ["init.sh"]
+    
+    volumes:
+      - ../scripts:/root/scripts:rw
+      - ../data:/root/data:rw
+    
+    environment:
+
+      PATH: "/root/scripts:/sbin:$PATH"
+      TERM: "xterm-256color"
+      SV_NAME: "${name}"
+      SV_DIR: "/root/${name}"
+      SV_PORT: "${csgo_port}"      
+      SV_GSLT: "${csgo_gslt}"
+      SV_HOSTNAME: "${csgo_hostname}"
+      SV_TAGS: "${csgo_tags}"
+      SV_MAXPLAYERS: "${max_players}"
+      SV_DEFAULTMAP: "${default_map}"
+      FASTDL_DOMAIN: "${domain}"
+      FASTDL_PROTOCOL: "${protocol}"
+      GLOBALAPI_KEY: "${globalapi_key}"
+
+
+
+
+    

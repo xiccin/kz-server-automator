@@ -1,0 +1,1325 @@
+L 06/08/2022 - 01:56:20: SourceMod log file session started (file "/root/kz-server/csgo/addons/sourcemod/logs/L20220608.log") (Version "1.10.0.6540")
+L 06/08/2022 - 01:56:20: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 06/08/2022 - 01:56:23: [SM] Changed map to "kz_evilcorp"
+L 06/08/2022 - 01:56:23: -------- Mapchange to kz_evilcorp --------
+L 06/08/2022 - 01:56:58: -------- Mapchange to kz_evilcorp --------
+L 06/08/2022 - 02:05:30: -------- Mapchange to kz_dakow --------
+L 06/08/2022 - 02:05:31: [SM] Changed map to "kz_dakow"
+L 06/08/2022 - 02:05:32: -------- Mapchange to kz_dakow --------
+L 06/08/2022 - 02:05:38: -------- Mapchange to kz_dakow --------
+L 06/08/2022 - 02:09:05: -------- Mapchange to kz_evilcorp --------
+L 06/08/2022 - 02:09:14: -------- Mapchange to kz_evilcorp --------
+L 06/08/2022 - 02:12:40: -------- Mapchange to kz_evilcorp --------
+L 06/08/2022 - 02:14:19: SourceMod log file session started (file "/root/kz-server/csgo/addons/sourcemod/logs/L20220608.log") (Version "1.10.0.6540")
+L 06/08/2022 - 02:14:19: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 06/08/2022 - 02:14:26: -------- Mapchange to kz_evilcorp --------
+L 06/08/2022 - 02:14:30: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 02:14:31: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 02:22:31: Log file closed.
+L 06/08/2022 - 02:22:49: SourceMod log file session started (file "/root/kz-server/csgo/addons/sourcemod/logs/L20220608.log") (Version "1.10.0.6540")
+L 06/08/2022 - 02:22:49: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 06/08/2022 - 02:23:00: -------- Mapchange to kz_evilcorp --------
+L 06/08/2022 - 02:23:03: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 02:23:04: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 02:23:04: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 02:23:04: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 02:23:04: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 02:23:04: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 02:23:04: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 02:26:23: Log file closed.
+L 06/08/2022 - 02:26:32: SourceMod log file session started (file "/root/kz-server/csgo/addons/sourcemod/logs/L20220608.log") (Version "1.10.0.6540")
+L 06/08/2022 - 02:26:32: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 06/08/2022 - 02:42:37: Log file closed.
+L 06/08/2022 - 02:43:27: SourceMod log file session started (file "/root/kz-server/csgo/addons/sourcemod/logs/L20220608.log") (Version "1.10.0.6540")
+L 06/08/2022 - 02:43:27: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 06/08/2022 - 02:54:51: SourceMod log file session started (file "/root/kz-server/csgo/addons/sourcemod/logs/L20220608.log") (Version "1.10.0.6540")
+L 06/08/2022 - 02:54:51: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 06/08/2022 - 03:01:26: -------- Mapchange to kz_evilcorp --------
+L 06/08/2022 - 03:01:30: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 03:01:31: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:01:31: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:01:31: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:01:32: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:01:32: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:13:11: -------- Mapchange to kz_evilcorp --------
+L 06/08/2022 - 03:13:12: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 03:13:15: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 03:13:15: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:13:15: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:13:16: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:13:16: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:13:16: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:14:45: -------- Mapchange to kz_doveen --------
+L 06/08/2022 - 03:14:46: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 03:14:46: [SM] Changed map to "kz_doveen"
+L 06/08/2022 - 03:14:46: -------- Mapchange to kz_doveen --------
+L 06/08/2022 - 03:14:49: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 03:14:51: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 03:14:51: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:14:51: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:14:51: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:14:51: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:14:51: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:18:19: -------- Mapchange to kz_doveen --------
+L 06/08/2022 - 03:18:21: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 03:18:24: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 03:18:24: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:18:24: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:18:24: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:18:24: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:18:24: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:20:28: SourceMod log file session started (file "/root/kz-server/csgo/addons/sourcemod/logs/L20220608.log") (Version "1.10.0.6540")
+L 06/08/2022 - 03:20:28: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 06/08/2022 - 03:20:36: -------- Mapchange to kz_evilcorp --------
+L 06/08/2022 - 03:20:40: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 03:20:41: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 03:20:41: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:20:41: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:20:41: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:20:41: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:20:41: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:25:56: -------- Mapchange to kz_doveen --------
+L 06/08/2022 - 03:25:57: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 03:26:01: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 03:26:01: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:26:01: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:26:01: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:26:01: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:26:02: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:29:37: -------- Mapchange to kz_doveen --------
+L 06/08/2022 - 03:29:39: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 03:29:42: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 03:29:43: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:29:43: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:29:43: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:29:43: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:29:43: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:47:41: SourceMod log file session started (file "/root/kz-server/csgo/addons/sourcemod/logs/L20220608.log") (Version "1.10.0.6540")
+L 06/08/2022 - 03:47:41: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 06/08/2022 - 03:49:20: -------- Mapchange to kz_evilcorp --------
+L 06/08/2022 - 03:49:24: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 03:49:25: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:49:25: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:49:26: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:49:26: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:49:26: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:49:44: -------- Mapchange to kz_doveen --------
+L 06/08/2022 - 03:49:46: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 03:49:46: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 03:49:46: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:49:46: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:49:46: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:49:47: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:49:47: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:51:31: -------- Mapchange to kz_doveen --------
+L 06/08/2022 - 03:51:32: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 03:51:35: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 03:51:36: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:51:36: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:51:36: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:51:36: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:51:36: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:54:31: SourceMod log file session started (file "/root/kz-server/csgo/addons/sourcemod/logs/L20220608.log") (Version "1.10.0.6540")
+L 06/08/2022 - 03:54:31: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 06/08/2022 - 03:55:12: -------- Mapchange to kz_evilcorp --------
+L 06/08/2022 - 03:55:15: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 03:55:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 03:55:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 03:55:16: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 03:55:16: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:55:16: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:55:16: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:55:16: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:55:16: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:56:07: -------- Mapchange to kz_doveen --------
+L 06/08/2022 - 03:56:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 03:56:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 03:56:09: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 03:56:09: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 03:56:10: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:56:10: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:56:10: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:56:10: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:56:10: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:58:17: -------- Mapchange to kz_doveen --------
+L 06/08/2022 - 03:58:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 03:58:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 03:58:18: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 03:58:22: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 03:58:22: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:58:22: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:58:22: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:58:22: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:58:23: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 03:59:56: Log file closed.
+L 06/08/2022 - 04:01:52: SourceMod log file session started (file "/root/kz-server/csgo/addons/sourcemod/logs/L20220608.log") (Version "1.10.0.6540")
+L 06/08/2022 - 04:01:52: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 06/08/2022 - 04:06:14: -------- Mapchange to kz_evilcorp --------
+L 06/08/2022 - 04:06:18: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 04:06:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 04:06:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 04:06:19: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 04:06:19: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 04:06:19: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 04:06:19: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 04:06:19: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 04:06:19: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 04:06:39: [basecommands.smx] "zzzzz<2><STEAM_1:0:532464040><>" changed map to "kz_doveen"
+L 06/08/2022 - 04:06:42: [SM] Changed map to "kz_doveen"
+L 06/08/2022 - 04:06:43: -------- Mapchange to kz_doveen --------
+L 06/08/2022 - 04:06:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 04:06:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 04:06:44: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 04:06:45: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 04:06:45: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 04:06:45: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 04:06:45: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 04:06:45: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 04:06:45: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 04:07:18: -------- Mapchange to kz_evilcorp --------
+L 06/08/2022 - 04:07:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 04:07:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 04:07:19: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 04:53:18: -------- Mapchange to kz_evilcorp --------
+L 06/08/2022 - 04:53:21: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 04:53:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 04:53:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 04:53:23: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 04:53:23: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 04:53:23: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 04:53:23: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 04:53:23: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 04:53:23: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 04:53:43: [basecommands.smx] "zzzzz<4><STEAM_1:0:532464040><>" changed map to "kz_dakow"
+L 06/08/2022 - 04:53:46: [SM] Changed map to "kz_dakow"
+L 06/08/2022 - 04:53:46: -------- Mapchange to kz_dakow --------
+L 06/08/2022 - 04:53:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 04:53:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 04:53:48: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 04:53:48: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 04:53:48: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 04:53:48: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 04:53:48: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 04:53:48: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 04:53:48: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 05:18:57: SourceMod log file session started (file "/root/kz-server/csgo/addons/sourcemod/logs/L20220608.log") (Version "1.10.0.6540")
+L 06/08/2022 - 05:18:57: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 06/08/2022 - 05:19:38: -------- Mapchange to kz_evilcorp --------
+L 06/08/2022 - 05:19:41: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 05:19:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 05:19:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 05:19:43: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 05:19:43: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 05:19:43: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 05:19:43: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 05:19:43: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 05:19:43: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 05:20:14: [basecommands.smx] "zzzzz<2><STEAM_1:0:532464040><>" changed map to "kz_rectangle"
+L 06/08/2022 - 05:20:17: [SM] Changed map to "kz_rectangle"
+L 06/08/2022 - 05:20:18: -------- Mapchange to kz_rectangle --------
+L 06/08/2022 - 05:20:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 05:20:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 05:20:19: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 05:20:19: [SM] Changed map to "kz_rectangle"
+L 06/08/2022 - 05:20:20: -------- Mapchange to kz_rectangle --------
+L 06/08/2022 - 05:20:20: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 05:20:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 05:20:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 05:20:21: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 05:20:21: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 05:20:21: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 05:20:21: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 05:20:21: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 05:20:21: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 05:22:54: -------- Mapchange to kz_rectangle --------
+L 06/08/2022 - 05:22:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 05:22:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 05:22:55: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 05:25:58: -------- Mapchange to kz_rectangle --------
+L 06/08/2022 - 05:25:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 05:25:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 05:26:00: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 05:27:18: -------- Mapchange to kz_rectangle --------
+L 06/08/2022 - 05:27:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 05:27:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 05:27:19: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 05:39:17: -------- Mapchange to kz_rectangle --------
+L 06/08/2022 - 05:40:20: Log file closed.
+L 06/08/2022 - 05:41:18: SourceMod log file session started (file "/root/kz-server/csgo/addons/sourcemod/logs/L20220608.log") (Version "1.10.0.6540")
+L 06/08/2022 - 05:41:18: -------- Mapchange to kz_evilcorp --------
+L 06/08/2022 - 05:41:49: -------- Mapchange to kz_dakow --------
+L 06/08/2022 - 05:43:38: -------- Mapchange to kz_evilcorp --------
+L 06/08/2022 - 05:43:38: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 06/08/2022 - 05:43:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 05:43:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 05:44:22: -------- Mapchange to kz_evilcorp --------
+L 06/08/2022 - 05:44:25: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 05:44:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 05:44:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 05:44:26: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 05:44:26: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 05:44:26: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 05:44:26: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 05:44:26: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 05:44:26: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 06:09:10: [basecommands.smx] "zzzzz<3><STEAM_1:0:532464040><>" changed map to "kz_rectangle"
+L 06/08/2022 - 06:09:13: [SM] Changed map to "kz_rectangle"
+L 06/08/2022 - 06:09:13: -------- Mapchange to kz_rectangle --------
+L 06/08/2022 - 06:09:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 06:09:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 06:09:15: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 06:09:18: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 06:09:19: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 06:09:19: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 06:09:19: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 06:09:19: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 06:09:19: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 06:18:05: Log file closed.
+L 06/08/2022 - 06:21:51: SourceMod log file session started (file "/root/kz-server/csgo/addons/sourcemod/logs/L20220608.log") (Version "1.10.0.6540")
+L 06/08/2022 - 06:21:51: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 06/08/2022 - 06:22:18: -------- Mapchange to kz_evilcorp --------
+L 06/08/2022 - 06:22:21: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 06:22:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 06:22:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 06:22:22: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 06:22:23: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 06:22:23: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 06:22:23: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 06:22:23: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 06:22:23: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 06:22:43: [basecommands.smx] "zzzzz<2><STEAM_1:0:532464040><>" changed map to "kz_rectangle"
+L 06/08/2022 - 06:22:46: [SM] Changed map to "kz_rectangle"
+L 06/08/2022 - 06:22:47: -------- Mapchange to kz_rectangle --------
+L 06/08/2022 - 06:22:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 06:22:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 06:22:49: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 06:22:49: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 06:22:49: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 06:22:50: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 06:22:50: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 06:22:50: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 06:22:50: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 06:23:22: Log file closed.
+L 06/08/2022 - 06:25:47: SourceMod log file session started (file "/root/kz-server/csgo/addons/sourcemod/logs/L20220608.log") (Version "1.10.0.6540")
+L 06/08/2022 - 06:25:47: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 06/08/2022 - 06:26:20: -------- Mapchange to kz_evilcorp --------
+L 06/08/2022 - 06:26:23: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 06:26:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 06:26:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 06:26:24: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 06:26:24: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 06:26:24: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 06:26:24: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 06:26:24: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 06:26:24: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 06:26:44: [basecommands.smx] "zzzzz<2><STEAM_1:0:532464040><>" changed map to "kz_rectangle"
+L 06/08/2022 - 06:26:47: [SM] Changed map to "kz_rectangle"
+L 06/08/2022 - 06:26:48: -------- Mapchange to kz_rectangle --------
+L 06/08/2022 - 06:26:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 06:26:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 06:26:50: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 06:26:50: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 06:26:51: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 06:26:51: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 06:26:51: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 06:26:51: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 06:26:51: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 06:28:50: Log file closed.
+L 06/08/2022 - 07:29:03: SourceMod log file session started (file "/root/kz-server/csgo/addons/sourcemod/logs/L20220608.log") (Version "1.10.0.6540")
+L 06/08/2022 - 07:29:03: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 06/08/2022 - 07:29:14: -------- Mapchange to kz_evilcorp --------
+L 06/08/2022 - 07:29:17: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 07:29:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 07:29:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 07:29:18: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 07:29:18: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 07:29:18: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 07:29:18: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 07:29:18: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 07:29:19: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 07:29:43: [basecommands.smx] "zzzzz<2><STEAM_1:0:532464040><>" changed map to "kz_rectangle"
+L 06/08/2022 - 07:29:46: [SM] Changed map to "kz_rectangle"
+L 06/08/2022 - 07:29:47: -------- Mapchange to kz_rectangle --------
+L 06/08/2022 - 07:29:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 07:29:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 07:29:48: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 07:29:48: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 07:29:49: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 07:29:49: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 07:29:49: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 07:29:49: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 07:29:49: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 08:21:10: SourceMod log file session started (file "/root/kz-server/csgo/addons/sourcemod/logs/L20220608.log") (Version "1.10.0.6540")
+L 06/08/2022 - 08:21:10: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 06/08/2022 - 08:21:57: SourceMod log file session started (file "/root/kz-server/csgo/addons/sourcemod/logs/L20220608.log") (Version "1.10.0.6540")
+L 06/08/2022 - 08:21:57: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 06/08/2022 - 08:23:10: -------- Mapchange to kz_evilcorp --------
+L 06/08/2022 - 08:23:13: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 08:23:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 08:23:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 08:23:15: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 08:23:15: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 08:23:15: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 08:23:15: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 08:23:15: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 08:23:15: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 08:23:34: [basecommands.smx] "zzzzz<2><STEAM_1:0:532464040><>" changed map to "kz_rectangle"
+L 06/08/2022 - 08:23:37: [SM] Changed map to "kz_rectangle"
+L 06/08/2022 - 08:23:38: -------- Mapchange to kz_rectangle --------
+L 06/08/2022 - 08:23:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 08:23:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 08:23:39: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 08:23:40: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 08:23:40: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 08:23:40: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 08:23:40: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 08:23:40: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 08:23:41: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 08:25:46: Log file closed.
+L 06/08/2022 - 08:29:26: SourceMod log file session started (file "/root/kz-server/csgo/addons/sourcemod/logs/L20220608.log") (Version "1.10.0.6540")
+L 06/08/2022 - 08:29:26: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 06/08/2022 - 08:29:52: -------- Mapchange to kz_evilcorp --------
+L 06/08/2022 - 08:29:55: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 08:29:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 08:29:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 08:29:57: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 08:29:57: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 08:29:57: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 08:29:57: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 08:29:57: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 08:29:58: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 08:30:21: [basecommands.smx] "zzzzz<2><STEAM_1:0:532464040><>" changed map to "kz_rectangle"
+L 06/08/2022 - 08:30:24: [SM] Changed map to "kz_rectangle"
+L 06/08/2022 - 08:30:25: -------- Mapchange to kz_rectangle --------
+L 06/08/2022 - 08:30:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 08:30:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 08:30:26: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 08:30:26: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 08:30:27: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 08:30:27: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 08:30:27: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 08:30:27: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 08:30:27: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 08:39:04: SourceMod log file session started (file "/root/kz-server/csgo/addons/sourcemod/logs/L20220608.log") (Version "1.10.0.6540")
+L 06/08/2022 - 08:39:04: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 06/08/2022 - 08:39:34: -------- Mapchange to kz_evilcorp --------
+L 06/08/2022 - 08:39:37: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 08:39:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 08:39:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 08:39:39: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 08:39:39: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 08:39:39: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 08:39:39: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 08:39:39: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 08:39:39: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 08:39:59: [basecommands.smx] "zzzzz<2><STEAM_1:0:532464040><>" changed map to "kz_rectangle"
+L 06/08/2022 - 08:40:02: [SM] Changed map to "kz_rectangle"
+L 06/08/2022 - 08:40:02: -------- Mapchange to kz_rectangle --------
+L 06/08/2022 - 08:40:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 08:40:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 08:40:04: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 08:40:04: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 08:40:05: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 08:40:05: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 08:40:05: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 08:40:05: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 08:40:05: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 08:54:14: -------- Mapchange to kz_rectangle --------
+L 06/08/2022 - 08:54:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 08:54:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 08:54:15: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 08:54:18: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 08:54:19: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 08:54:19: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 08:54:19: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 08:54:19: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 08:54:19: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 08:57:38: SourceMod log file session started (file "/root/kz-server/csgo/addons/sourcemod/logs/L20220608.log") (Version "1.10.0.6540")
+L 06/08/2022 - 08:57:38: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 06/08/2022 - 08:58:10: -------- Mapchange to kz_rectangle --------
+L 06/08/2022 - 08:58:13: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 08:58:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 08:58:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 08:58:15: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 08:58:15: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 08:58:15: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 08:58:15: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 08:58:15: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 08:58:15: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 09:44:22: SourceMod log file session started (file "/root/kz-server/csgo/addons/sourcemod/logs/L20220608.log") (Version "1.10.0.6540")
+L 06/08/2022 - 09:44:22: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 06/08/2022 - 09:44:43: -------- Mapchange to kz_evilcorp --------
+L 06/08/2022 - 09:44:46: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 09:44:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 09:44:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 09:44:48: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 09:44:48: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 09:44:48: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 09:44:48: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 09:44:48: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 09:44:49: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 09:45:29: [basecommands.smx] "zzzzz<2><STEAM_1:0:532464040><>" changed map to "kz_paradise"
+L 06/08/2022 - 09:45:32: [SM] Changed map to "kz_paradise"
+L 06/08/2022 - 09:45:33: -------- Mapchange to kz_paradise --------
+L 06/08/2022 - 09:45:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 09:45:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 09:45:34: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 09:45:34: [SM] Changed map to "kz_paradise"
+L 06/08/2022 - 09:45:34: -------- Mapchange to kz_paradise --------
+L 06/08/2022 - 09:45:35: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 09:45:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 09:45:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 09:45:36: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 09:45:36: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 09:45:36: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 09:45:36: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 09:45:36: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 09:45:36: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 09:46:04: [basecommands.smx] "zzzzz<3><STEAM_1:0:532464040><>" changed map to "kz_rectangle"
+L 06/08/2022 - 09:46:07: [SM] Changed map to "kz_rectangle"
+L 06/08/2022 - 09:46:08: -------- Mapchange to kz_rectangle --------
+L 06/08/2022 - 09:46:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 09:46:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 09:46:09: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 09:46:12: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 09:46:13: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 09:46:13: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 09:46:13: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 09:46:13: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 09:46:13: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 09:46:20: -------- Mapchange to kz_rectangle --------
+L 06/08/2022 - 09:46:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 09:46:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 09:46:21: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 09:46:21: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 09:46:22: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 09:46:22: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 09:46:22: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 09:46:22: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 09:46:22: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 09:48:24: -------- Mapchange to kz_mz --------
+L 06/08/2022 - 09:48:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 09:48:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 09:48:25: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 09:48:25: [SM] Changed map to "kz_mz"
+L 06/08/2022 - 09:48:25: -------- Mapchange to kz_mz --------
+L 06/08/2022 - 09:48:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 09:48:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 09:48:27: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 09:48:31: -------- Mapchange to kz_mz --------
+L 06/08/2022 - 09:48:34: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 09:48:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 09:48:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 09:48:35: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 09:48:35: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 09:48:35: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 09:48:35: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 09:48:35: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 09:48:35: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 09:54:28: -------- Mapchange to kz_dakow --------
+L 06/08/2022 - 09:54:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 09:54:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 09:54:29: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 09:54:32: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 09:54:32: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 09:54:32: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 09:54:33: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 09:54:33: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 09:54:33: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 09:55:09: [basecommands.smx] "zzzzz<5><STEAM_1:0:532464040><>" changed map to "kz_rectangle"
+L 06/08/2022 - 09:55:12: [SM] Changed map to "kz_rectangle"
+L 06/08/2022 - 09:55:13: -------- Mapchange to kz_rectangle --------
+L 06/08/2022 - 09:55:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 09:55:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 09:55:14: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 09:55:15: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 09:55:16: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 09:55:16: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 09:55:16: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 09:55:16: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 09:55:16: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 10:17:36: [funvotes.smx] "zzzzz<5><STEAM_1:0:532464040><>" initiated a burn vote against "zzzzz<5><STEAM_1:0:532464040><>"
+L 06/08/2022 - 10:17:41: [funvotes.smx] Vote burn successful, igniting "zzzzz<5><STEAM_1:0:532464040><>"
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx] Version: 1.2.0
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx] Timestamp: 1654685724 (06/08/22 10:55:24)
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx] Ran by: Console (N/A)
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx] Server Hostname: "KZ Community | Under Development"
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx] Server IP & Port: "127.0.0.1:27015"
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx] Plugin list:
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   Name                               Version                          File
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - Admin File Reader                1.10.0.6540                      admin-flatfile.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - Admin Help                       1.10.0.6540                      adminhelp.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - Admin Menu                       1.10.0.6540                      adminmenu.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - Anti-Flood                       1.10.0.6540                      antiflood.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - Basic Ban Commands               1.10.0.6540                      basebans.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - Basic Chat                       1.10.0.6540                      basechat.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - Basic Commands                   1.10.0.6540                      basecommands.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - Basic Comm Control               1.10.0.6540                      basecomm.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - Basic Info Triggers              1.10.0.6540                      basetriggers.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - Basic Votes                      1.10.0.6540                      basevotes.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - Client Preferences               1.10.0.6540                      clientprefs.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - Distance Bug Fix                 1.2.2                            distbugfix.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - Fun Votes                        1.10.0.6540                      funvotes.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - GCMeasure                        1.00                             gcmeasure.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - GlobalAPI-Logging-Flatfile       2.0.4                            GlobalAPI-Logging-Flatfile.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - GlobalAPI-Retrying-Binary        2.0.4                            GlobalAPI-Retrying-Binary.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - GlobalAPI                        2.0.4                            GlobalAPI.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - GlobalPB                         v1.2.1                           globalpb.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - GOKZ Anti-Cheat                  3.3.0                            gokz-anticheat.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - GOKZ Chat                        3.3.0                            gokz-chat.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - GOKZ Core                        3.3.0                            gokz-core.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - GOKZ KZErrorBoxFixer             3.3.0                            gokz-errorboxfixer.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - GOKZ Global                      3.3.0                            gokz-global.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - GOKZ Goto                        3.3.0                            gokz-goto.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - GOKZ HUD                         3.3.0                            gokz-hud.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - GOKZ Jump Beam                   3.3.0                            gokz-jumpbeam.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - GOKZ Jumpstats                   3.3.0                            gokz-jumpstats.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - GOKZ Local DB                    3.3.0                            gokz-localdb.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - GOKZ Local Ranks                 3.3.0                            gokz-localranks.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - GOKZ Measure                     3.3.0                            gokz-measure.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - GOKZ Mode - KZTimer              3.3.0                            gokz-mode-kztimer.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - GOKZ Mode - SimpleKZ             3.3.0                            gokz-mode-simplekz.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - GOKZ Mode - Vanilla              3.3.0                            gokz-mode-vanilla.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - GOKZ Momsurffix                  3.3.0                            gokz-momsurffix.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - GOKZ Paint                       3.3.0                            gokz-paint.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - GOKZ Pistol                      3.3.0                            gokz-pistol.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - GOKZ Player Models               3.3.0                            gokz-playermodels.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - GOKZ Profile                     3.3.0                            gokz-profile.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - GOKZ Quiet                       3.3.0                            gokz-quiet.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - GOKZ Racing                      3.3.0                            gokz-racing.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - GOKZ Replays                     3.3.0                            gokz-replays.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - GOKZ SaveLoc                     3.3.0                            gokz-saveloc.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - GOKZ Slay On End                 3.3.0                            gokz-slayonend.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - GOKZ Spectate Menu               3.3.0                            gokz-spec.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - GOKZ Tips                        3.3.0                            gokz-tips.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - LJ Room Teleport                 1.0                              kzlj.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - MapChooser with map tiers        1.10.0.6484                      mapchooser_tier.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - CSGO Panorama Map Change Cras... 1.0.6                            mapcrashfixer.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - More Stats                       v3.0.2                           more-stats.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - MovementAPI                      2.3.0                            movementapi.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - MovementHUD                      3.0.1                            movementhud.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - Nextmap                          1.10.0.6540                      nextmap.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - No More Sounds                   v1.0.1                           no-more-sounds.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - Reserved Slots                   1.10.0.6540                      reservedslots.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - ShowPos                          0.0.2                            showpos.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - Sound Commands                   1.10.0.6540                      sounds.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]   - Zone Stopwatch                   1.01                             ztopwatch.smx
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx] Test results:
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx] > Server tickrate
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]     [STATE]    PASS
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx] > Server password
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]     [STATE]    PASS
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx] > -nobots parameter
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]     [STATE]    FAIL
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]     [ERROR]    -nobots parameter is specified, replay bots cannot function with it
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]     [NOTE ]    Remove the "-nobots" parameter from your srcds commandline arguments
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx] > Bad plugins
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]     [STATE]    PASS
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx] > GlobalAPI
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]     [STATE]    FAIL
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]     [ERROR]    cfg/sourcemod/globalapi-key.cfg file does not exist or is empty
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]     [NOTE ]    Make sure to put your API key (even if unapproved) inside the file
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx] > GOKZ-Global
+L 06/08/2022 - 10:55:24: [KZServerAdvisor.smx]     [STATE]    PASS
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx] Version: 1.2.0
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx] Timestamp: 1654685740 (06/08/22 10:55:40)
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx] Ran by: Console (N/A)
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx] Server Hostname: "KZ Community | Under Development"
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx] Server IP & Port: "127.0.0.1:27015"
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx] Plugin list:
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   Name                               Version                          File
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - Admin File Reader                1.10.0.6540                      admin-flatfile.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - Admin Help                       1.10.0.6540                      adminhelp.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - Admin Menu                       1.10.0.6540                      adminmenu.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - Anti-Flood                       1.10.0.6540                      antiflood.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - Basic Ban Commands               1.10.0.6540                      basebans.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - Basic Chat                       1.10.0.6540                      basechat.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - Basic Commands                   1.10.0.6540                      basecommands.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - Basic Comm Control               1.10.0.6540                      basecomm.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - Basic Info Triggers              1.10.0.6540                      basetriggers.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - Basic Votes                      1.10.0.6540                      basevotes.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - Client Preferences               1.10.0.6540                      clientprefs.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - Distance Bug Fix                 1.2.2                            distbugfix.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - Fun Votes                        1.10.0.6540                      funvotes.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - GCMeasure                        1.00                             gcmeasure.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - GlobalAPI-Logging-Flatfile       2.0.4                            GlobalAPI-Logging-Flatfile.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - GlobalAPI-Retrying-Binary        2.0.4                            GlobalAPI-Retrying-Binary.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - GlobalAPI                        2.0.4                            GlobalAPI.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - GlobalPB                         v1.2.1                           globalpb.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - GOKZ Anti-Cheat                  3.3.0                            gokz-anticheat.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - GOKZ Chat                        3.3.0                            gokz-chat.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - GOKZ Core                        3.3.0                            gokz-core.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - GOKZ KZErrorBoxFixer             3.3.0                            gokz-errorboxfixer.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - GOKZ Global                      3.3.0                            gokz-global.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - GOKZ Goto                        3.3.0                            gokz-goto.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - GOKZ HUD                         3.3.0                            gokz-hud.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - GOKZ Jump Beam                   3.3.0                            gokz-jumpbeam.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - GOKZ Jumpstats                   3.3.0                            gokz-jumpstats.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - GOKZ Local DB                    3.3.0                            gokz-localdb.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - GOKZ Local Ranks                 3.3.0                            gokz-localranks.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - GOKZ Measure                     3.3.0                            gokz-measure.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - GOKZ Mode - KZTimer              3.3.0                            gokz-mode-kztimer.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - GOKZ Mode - SimpleKZ             3.3.0                            gokz-mode-simplekz.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - GOKZ Mode - Vanilla              3.3.0                            gokz-mode-vanilla.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - GOKZ Momsurffix                  3.3.0                            gokz-momsurffix.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - GOKZ Paint                       3.3.0                            gokz-paint.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - GOKZ Pistol                      3.3.0                            gokz-pistol.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - GOKZ Player Models               3.3.0                            gokz-playermodels.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - GOKZ Profile                     3.3.0                            gokz-profile.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - GOKZ Quiet                       3.3.0                            gokz-quiet.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - GOKZ Racing                      3.3.0                            gokz-racing.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - GOKZ Replays                     3.3.0                            gokz-replays.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - GOKZ SaveLoc                     3.3.0                            gokz-saveloc.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - GOKZ Slay On End                 3.3.0                            gokz-slayonend.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - GOKZ Spectate Menu               3.3.0                            gokz-spec.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - GOKZ Tips                        3.3.0                            gokz-tips.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - LJ Room Teleport                 1.0                              kzlj.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - MapChooser with map tiers        1.10.0.6484                      mapchooser_tier.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - CSGO Panorama Map Change Cras... 1.0.6                            mapcrashfixer.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - More Stats                       v3.0.2                           more-stats.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - MovementAPI                      2.3.0                            movementapi.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - MovementHUD                      3.0.1                            movementhud.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - Nextmap                          1.10.0.6540                      nextmap.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - No More Sounds                   v1.0.1                           no-more-sounds.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - Reserved Slots                   1.10.0.6540                      reservedslots.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - ShowPos                          0.0.2                            showpos.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - Sound Commands                   1.10.0.6540                      sounds.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]   - Zone Stopwatch                   1.01                             ztopwatch.smx
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx] Test results:
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx] > Server tickrate
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]     [STATE]    PASS
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx] > Server password
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]     [STATE]    PASS
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx] > -nobots parameter
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]     [STATE]    FAIL
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]     [ERROR]    -nobots parameter is specified, replay bots cannot function with it
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]     [NOTE ]    Remove the "-nobots" parameter from your srcds commandline arguments
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx] > Bad plugins
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]     [STATE]    PASS
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx] > GlobalAPI
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]     [STATE]    FAIL
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]     [ERROR]    cfg/sourcemod/globalapi-key.cfg file does not exist or is empty
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]     [NOTE ]    Make sure to put your API key (even if unapproved) inside the file
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx] > GOKZ-Global
+L 06/08/2022 - 10:55:40: [KZServerAdvisor.smx]     [STATE]    PASS
+L 06/08/2022 - 11:41:20: SourceMod log file session started (file "/root/kz-server/csgo/addons/sourcemod/logs/L20220608.log") (Version "1.10.0.6540")
+L 06/08/2022 - 11:41:20: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 06/08/2022 - 12:05:26: -------- Mapchange to kz_rectangle --------
+L 06/08/2022 - 12:05:29: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 12:05:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 12:05:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 12:05:31: [GlobalAPI.smx] [GlobalAPI] Using this method requires an API key, and you dont seem to have one setup!
+L 06/08/2022 - 12:05:31: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 12:05:31: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 12:05:31: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 12:05:31: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 12:05:31: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx] Version: 1.2.0
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx] Timestamp: 1654690529 (06/08/22 12:15:29)
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx] Ran by: Console (N/A)
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx] Server Hostname: "KZ India Community | GOKZ"
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx] Server IP & Port: "127.0.0.1:27015"
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx] Plugin list:
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   Name                               Version                          File
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - Admin File Reader                1.10.0.6540                      admin-flatfile.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - Admin Help                       1.10.0.6540                      adminhelp.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - Admin Menu                       1.10.0.6540                      adminmenu.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - Anti-Flood                       1.10.0.6540                      antiflood.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - Basic Ban Commands               1.10.0.6540                      basebans.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - Basic Chat                       1.10.0.6540                      basechat.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - Basic Commands                   1.10.0.6540                      basecommands.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - Basic Comm Control               1.10.0.6540                      basecomm.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - Basic Info Triggers              1.10.0.6540                      basetriggers.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - Basic Votes                      1.10.0.6540                      basevotes.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - Client Preferences               1.10.0.6540                      clientprefs.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - Distance Bug Fix                 1.2.2                            distbugfix.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - GCMeasure                        1.00                             gcmeasure.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - GlobalAPI-Logging-Flatfile       2.0.4                            GlobalAPI-Logging-Flatfile.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - GlobalAPI-Retrying-Binary        2.0.4                            GlobalAPI-Retrying-Binary.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - GlobalAPI                        2.0.4                            GlobalAPI.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - GlobalPB                         v1.2.1                           globalpb.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - GOKZ Anti-Cheat                  3.3.0                            gokz-anticheat.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - GOKZ Chat                        3.3.0                            gokz-chat.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - GOKZ Core                        3.3.0                            gokz-core.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - GOKZ KZErrorBoxFixer             3.3.0                            gokz-errorboxfixer.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - GOKZ Global                      3.3.0                            gokz-global.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - GOKZ Goto                        3.3.0                            gokz-goto.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - GOKZ HUD                         3.3.0                            gokz-hud.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - GOKZ Jump Beam                   3.3.0                            gokz-jumpbeam.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - GOKZ Jumpstats                   3.3.0                            gokz-jumpstats.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - GOKZ Local DB                    3.3.0                            gokz-localdb.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - GOKZ Local Ranks                 3.3.0                            gokz-localranks.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - GOKZ Measure                     3.3.0                            gokz-measure.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - GOKZ Mode - KZTimer              3.3.0                            gokz-mode-kztimer.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - GOKZ Mode - SimpleKZ             3.3.0                            gokz-mode-simplekz.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - GOKZ Mode - Vanilla              3.3.0                            gokz-mode-vanilla.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - GOKZ Momsurffix                  3.3.0                            gokz-momsurffix.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - GOKZ Paint                       3.3.0                            gokz-paint.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - GOKZ Pistol                      3.3.0                            gokz-pistol.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - GOKZ Player Models               3.3.0                            gokz-playermodels.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - GOKZ Profile                     3.3.0                            gokz-profile.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - GOKZ Quiet                       3.3.0                            gokz-quiet.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - GOKZ Racing                      3.3.0                            gokz-racing.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - GOKZ Replays                     3.3.0                            gokz-replays.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - GOKZ SaveLoc                     3.3.0                            gokz-saveloc.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - GOKZ Slay On End                 3.3.0                            gokz-slayonend.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - GOKZ Spectate Menu               3.3.0                            gokz-spec.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - GOKZ Tips                        3.3.0                            gokz-tips.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - LJ Room Teleport                 1.0                              kzlj.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - MapChooser with map tiers        1.10.0.6484                      mapchooser_tier.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - CSGO Panorama Map Change Cras... 1.0.6                            mapcrashfixer.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - More Stats                       v3.0.2                           more-stats.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - MovementAPI                      2.3.0                            movementapi.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - MovementHUD                      3.0.1                            movementhud.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - Nextmap                          1.10.0.6540                      nextmap.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - No More Sounds                   v1.0.1                           no-more-sounds.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - Reserved Slots                   1.10.0.6540                      reservedslots.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - ShowPos                          0.0.2                            showpos.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - Sound Commands                   1.10.0.6540                      sounds.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]   - Zone Stopwatch                   1.01                             ztopwatch.smx
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx] Test results:
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx] > Server tickrate
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]     [STATE]    PASS
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx] > Server password
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]     [STATE]    PASS
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx] > -nobots parameter
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]     [STATE]    PASS
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx] > Bad plugins
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]     [STATE]    PASS
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx] > GlobalAPI
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]     [STATE]    FAIL
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]     [ERROR]    cfg/sourcemod/globalapi-key.cfg file does not exist or is empty
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]     [NOTE ]    Make sure to put your API key (even if unapproved) inside the file
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx] > GOKZ-Global
+L 06/08/2022 - 12:15:29: [KZServerAdvisor.smx]     [STATE]    PASS
+L 06/08/2022 - 12:19:42: SourceMod log file session started (file "/root/kz-server/csgo/addons/sourcemod/logs/L20220608.log") (Version "1.10.0.6540")
+L 06/08/2022 - 12:19:42: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 06/08/2022 - 12:28:23: -------- Mapchange to kz_rectangle --------
+L 06/08/2022 - 12:28:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 12:28:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 12:28:29: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 12:28:29: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 12:28:29: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 12:28:30: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 12:28:30: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx] Version: 1.2.0
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx] Timestamp: 1654691478 (06/08/22 12:31:18)
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx] Ran by: Console (N/A)
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx] Server Hostname: "KZ India Community | GOKZ"
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx] Server IP & Port: "127.0.0.1:27015"
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx] Plugin list:
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   Name                               Version                          File
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - Admin File Reader                1.10.0.6540                      admin-flatfile.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - Admin Help                       1.10.0.6540                      adminhelp.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - Admin Menu                       1.10.0.6540                      adminmenu.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - Anti-Flood                       1.10.0.6540                      antiflood.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - Basic Ban Commands               1.10.0.6540                      basebans.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - Basic Chat                       1.10.0.6540                      basechat.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - Basic Commands                   1.10.0.6540                      basecommands.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - Basic Comm Control               1.10.0.6540                      basecomm.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - Basic Info Triggers              1.10.0.6540                      basetriggers.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - Basic Votes                      1.10.0.6540                      basevotes.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - Client Preferences               1.10.0.6540                      clientprefs.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - Distance Bug Fix                 1.2.2                            distbugfix.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - GCMeasure                        1.00                             gcmeasure.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - GlobalAPI-Logging-Flatfile       2.0.4                            GlobalAPI-Logging-Flatfile.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - GlobalAPI-Retrying-Binary        2.0.4                            GlobalAPI-Retrying-Binary.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - GlobalAPI                        2.0.4                            GlobalAPI.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - GlobalPB                         v1.2.1                           globalpb.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - GOKZ Anti-Cheat                  3.3.0                            gokz-anticheat.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - GOKZ Chat                        3.3.0                            gokz-chat.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - GOKZ Core                        3.3.0                            gokz-core.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - GOKZ KZErrorBoxFixer             3.3.0                            gokz-errorboxfixer.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - GOKZ Global                      3.3.0                            gokz-global.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - GOKZ Goto                        3.3.0                            gokz-goto.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - GOKZ HUD                         3.3.0                            gokz-hud.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - GOKZ Jump Beam                   3.3.0                            gokz-jumpbeam.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - GOKZ Jumpstats                   3.3.0                            gokz-jumpstats.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - GOKZ Local DB                    3.3.0                            gokz-localdb.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - GOKZ Local Ranks                 3.3.0                            gokz-localranks.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - GOKZ Measure                     3.3.0                            gokz-measure.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - GOKZ Mode - KZTimer              3.3.0                            gokz-mode-kztimer.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - GOKZ Mode - SimpleKZ             3.3.0                            gokz-mode-simplekz.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - GOKZ Mode - Vanilla              3.3.0                            gokz-mode-vanilla.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - GOKZ Momsurffix                  3.3.0                            gokz-momsurffix.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - GOKZ Paint                       3.3.0                            gokz-paint.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - GOKZ Pistol                      3.3.0                            gokz-pistol.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - GOKZ Player Models               3.3.0                            gokz-playermodels.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - GOKZ Profile                     3.3.0                            gokz-profile.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - GOKZ Quiet                       3.3.0                            gokz-quiet.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - GOKZ Racing                      3.3.0                            gokz-racing.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - GOKZ Replays                     3.3.0                            gokz-replays.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - GOKZ SaveLoc                     3.3.0                            gokz-saveloc.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - GOKZ Slay On End                 3.3.0                            gokz-slayonend.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - GOKZ Spectate Menu               3.3.0                            gokz-spec.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - GOKZ Tips                        3.3.0                            gokz-tips.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - LJ Room Teleport                 1.0                              kzlj.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - MapChooser with map tiers        1.10.0.6484                      mapchooser_tier.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - CSGO Panorama Map Change Cras... 1.0.6                            mapcrashfixer.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - More Stats                       v3.0.2                           more-stats.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - MovementAPI                      2.3.0                            movementapi.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - MovementHUD                      3.0.1                            movementhud.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - Nextmap                          1.10.0.6540                      nextmap.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - No More Sounds                   v1.0.1                           no-more-sounds.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - Reserved Slots                   1.10.0.6540                      reservedslots.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - ShowPos                          0.0.2                            showpos.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - Sound Commands                   1.10.0.6540                      sounds.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]   - Zone Stopwatch                   1.01                             ztopwatch.smx
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx] Test results:
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx] > Server tickrate
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]     [STATE]    PASS
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx] > Server password
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]     [STATE]    PASS
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx] > -nobots parameter
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]     [STATE]    PASS
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx] > Bad plugins
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]     [STATE]    PASS
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx] > GlobalAPI
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]     [STATE]    PASS
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx] > GOKZ-Global
+L 06/08/2022 - 12:31:18: [KZServerAdvisor.smx]     [STATE]    PASS
+L 06/08/2022 - 12:50:42: [basecommands.smx] "zzzzz<3><STEAM_1:0:532464040><>" changed map to "kz_dakow"
+L 06/08/2022 - 12:50:45: [SM] Changed map to "kz_dakow"
+L 06/08/2022 - 12:50:45: -------- Mapchange to kz_dakow --------
+L 06/08/2022 - 12:50:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 12:50:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 12:50:50: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 12:50:50: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 12:50:50: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 12:50:51: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 12:50:51: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 12:59:48: [basecommands.smx] "zzzzz<4><STEAM_1:0:532464040><>" changed map to "kz_dakow"
+L 06/08/2022 - 12:59:51: [SM] Changed map to "kz_dakow"
+L 06/08/2022 - 12:59:51: -------- Mapchange to kz_dakow --------
+L 06/08/2022 - 12:59:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 12:59:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 12:59:56: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 12:59:56: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 12:59:56: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 12:59:56: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 12:59:56: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 13:00:04: -------- Mapchange to kz_dakow --------
+L 06/08/2022 - 13:00:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 13:00:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 13:00:07: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 13:00:07: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 13:00:07: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 13:00:07: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 13:00:07: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 13:23:00: [basecommands.smx] "zzzzz<5><STEAM_1:0:532464040><>" changed map to "kz_gy_agitation"
+L 06/08/2022 - 13:23:03: [SM] Changed map to "kz_gy_agitation"
+L 06/08/2022 - 13:23:04: -------- Mapchange to kz_gy_agitation --------
+L 06/08/2022 - 13:23:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 13:23:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 13:23:05: [SM] Changed map to "kz_gy_agitation"
+L 06/08/2022 - 13:23:06: -------- Mapchange to kz_gy_agitation --------
+L 06/08/2022 - 13:23:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 13:23:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 13:23:08: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 13:23:08: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 13:23:08: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 13:23:08: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 13:23:08: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 13:30:21: -------- Mapchange to kz_rectangle --------
+L 06/08/2022 - 13:30:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 13:30:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 13:30:27: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 13:30:27: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 13:30:27: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 13:30:27: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 13:30:27: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx] Version: 1.2.0
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx] Timestamp: 1654695089 (06/08/22 13:31:29)
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx] Ran by: Console (N/A)
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx] Server Hostname: "KZ India Community | GOKZ"
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx] Server IP & Port: "127.0.0.1:27015"
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx] Plugin list:
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   Name                               Version                          File
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - Admin File Reader                1.10.0.6540                      admin-flatfile.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - Admin Help                       1.10.0.6540                      adminhelp.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - Admin Menu                       1.10.0.6540                      adminmenu.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - Anti-Flood                       1.10.0.6540                      antiflood.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - Basic Ban Commands               1.10.0.6540                      basebans.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - Basic Chat                       1.10.0.6540                      basechat.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - Basic Commands                   1.10.0.6540                      basecommands.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - Basic Comm Control               1.10.0.6540                      basecomm.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - Basic Info Triggers              1.10.0.6540                      basetriggers.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - Basic Votes                      1.10.0.6540                      basevotes.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - Client Preferences               1.10.0.6540                      clientprefs.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - Distance Bug Fix                 1.2.2                            distbugfix.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - GCMeasure                        1.00                             gcmeasure.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - GlobalAPI-Logging-Flatfile       2.0.4                            GlobalAPI-Logging-Flatfile.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - GlobalAPI-Retrying-Binary        2.0.4                            GlobalAPI-Retrying-Binary.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - GlobalAPI                        2.0.4                            GlobalAPI.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - GlobalPB                         v1.2.1                           globalpb.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - GOKZ Anti-Cheat                  3.3.0                            gokz-anticheat.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - GOKZ Chat                        3.3.0                            gokz-chat.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - GOKZ Core                        3.3.0                            gokz-core.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - GOKZ KZErrorBoxFixer             3.3.0                            gokz-errorboxfixer.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - GOKZ Global                      3.3.0                            gokz-global.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - GOKZ Goto                        3.3.0                            gokz-goto.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - GOKZ HUD                         3.3.0                            gokz-hud.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - GOKZ Jump Beam                   3.3.0                            gokz-jumpbeam.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - GOKZ Jumpstats                   3.3.0                            gokz-jumpstats.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - GOKZ Local DB                    3.3.0                            gokz-localdb.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - GOKZ Local Ranks                 3.3.0                            gokz-localranks.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - GOKZ Measure                     3.3.0                            gokz-measure.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - GOKZ Mode - KZTimer              3.3.0                            gokz-mode-kztimer.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - GOKZ Mode - SimpleKZ             3.3.0                            gokz-mode-simplekz.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - GOKZ Mode - Vanilla              3.3.0                            gokz-mode-vanilla.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - GOKZ Momsurffix                  3.3.0                            gokz-momsurffix.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - GOKZ Paint                       3.3.0                            gokz-paint.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - GOKZ Pistol                      3.3.0                            gokz-pistol.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - GOKZ Player Models               3.3.0                            gokz-playermodels.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - GOKZ Profile                     3.3.0                            gokz-profile.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - GOKZ Quiet                       3.3.0                            gokz-quiet.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - GOKZ Racing                      3.3.0                            gokz-racing.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - GOKZ Replays                     3.3.0                            gokz-replays.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - GOKZ SaveLoc                     3.3.0                            gokz-saveloc.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - GOKZ Slay On End                 3.3.0                            gokz-slayonend.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - GOKZ Spectate Menu               3.3.0                            gokz-spec.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - GOKZ Tips                        3.3.0                            gokz-tips.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - LJ Room Teleport                 1.0                              kzlj.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - MapChooser with map tiers        1.10.0.6484                      mapchooser_tier.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - CSGO Panorama Map Change Cras... 1.0.6                            mapcrashfixer.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - More Stats                       v3.0.2                           more-stats.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - MovementAPI                      2.3.0                            movementapi.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - MovementHUD                      3.0.1                            movementhud.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - Nextmap                          1.10.0.6540                      nextmap.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - No More Sounds                   v1.0.1                           no-more-sounds.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - Reserved Slots                   1.10.0.6540                      reservedslots.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - ShowPos                          0.0.2                            showpos.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - Sound Commands                   1.10.0.6540                      sounds.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - Zone Stopwatch                   1.01                             ztopwatch.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]   - NightVision                      1.0.1                            nightvision.smx
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx] Test results:
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx] > Server tickrate
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]     [STATE]    PASS
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx] > Server password
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]     [STATE]    PASS
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx] > -nobots parameter
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]     [STATE]    PASS
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx] > Bad plugins
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]     [STATE]    PASS
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx] > GlobalAPI
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]     [STATE]    PASS
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx] > GOKZ-Global
+L 06/08/2022 - 13:31:29: [KZServerAdvisor.smx]     [STATE]    PASS
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx] Version: 1.2.0
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx] Timestamp: 1654695100 (06/08/22 13:31:40)
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx] Ran by: Console (N/A)
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx] Server Hostname: "KZ India Community | GOKZ"
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx] Server IP & Port: "127.0.0.1:27015"
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx] Plugin list:
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   Name                               Version                          File
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - Admin File Reader                1.10.0.6540                      admin-flatfile.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - Admin Help                       1.10.0.6540                      adminhelp.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - Admin Menu                       1.10.0.6540                      adminmenu.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - Anti-Flood                       1.10.0.6540                      antiflood.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - Basic Ban Commands               1.10.0.6540                      basebans.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - Basic Chat                       1.10.0.6540                      basechat.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - Basic Commands                   1.10.0.6540                      basecommands.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - Basic Comm Control               1.10.0.6540                      basecomm.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - Basic Info Triggers              1.10.0.6540                      basetriggers.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - Basic Votes                      1.10.0.6540                      basevotes.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - Client Preferences               1.10.0.6540                      clientprefs.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - Distance Bug Fix                 1.2.2                            distbugfix.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - GCMeasure                        1.00                             gcmeasure.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - GlobalAPI-Logging-Flatfile       2.0.4                            GlobalAPI-Logging-Flatfile.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - GlobalAPI-Retrying-Binary        2.0.4                            GlobalAPI-Retrying-Binary.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - GlobalAPI                        2.0.4                            GlobalAPI.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - GlobalPB                         v1.2.1                           globalpb.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - GOKZ Anti-Cheat                  3.3.0                            gokz-anticheat.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - GOKZ Chat                        3.3.0                            gokz-chat.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - GOKZ Core                        3.3.0                            gokz-core.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - GOKZ KZErrorBoxFixer             3.3.0                            gokz-errorboxfixer.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - GOKZ Global                      3.3.0                            gokz-global.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - GOKZ Goto                        3.3.0                            gokz-goto.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - GOKZ HUD                         3.3.0                            gokz-hud.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - GOKZ Jump Beam                   3.3.0                            gokz-jumpbeam.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - GOKZ Jumpstats                   3.3.0                            gokz-jumpstats.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - GOKZ Local DB                    3.3.0                            gokz-localdb.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - GOKZ Local Ranks                 3.3.0                            gokz-localranks.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - GOKZ Measure                     3.3.0                            gokz-measure.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - GOKZ Mode - KZTimer              3.3.0                            gokz-mode-kztimer.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - GOKZ Mode - SimpleKZ             3.3.0                            gokz-mode-simplekz.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - GOKZ Mode - Vanilla              3.3.0                            gokz-mode-vanilla.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - GOKZ Momsurffix                  3.3.0                            gokz-momsurffix.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - GOKZ Paint                       3.3.0                            gokz-paint.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - GOKZ Pistol                      3.3.0                            gokz-pistol.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - GOKZ Player Models               3.3.0                            gokz-playermodels.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - GOKZ Profile                     3.3.0                            gokz-profile.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - GOKZ Quiet                       3.3.0                            gokz-quiet.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - GOKZ Racing                      3.3.0                            gokz-racing.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - GOKZ Replays                     3.3.0                            gokz-replays.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - GOKZ SaveLoc                     3.3.0                            gokz-saveloc.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - GOKZ Slay On End                 3.3.0                            gokz-slayonend.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - GOKZ Spectate Menu               3.3.0                            gokz-spec.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - GOKZ Tips                        3.3.0                            gokz-tips.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - LJ Room Teleport                 1.0                              kzlj.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - MapChooser with map tiers        1.10.0.6484                      mapchooser_tier.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - CSGO Panorama Map Change Cras... 1.0.6                            mapcrashfixer.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - More Stats                       v3.0.2                           more-stats.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - MovementAPI                      2.3.0                            movementapi.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - MovementHUD                      3.0.1                            movementhud.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - Nextmap                          1.10.0.6540                      nextmap.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - No More Sounds                   v1.0.1                           no-more-sounds.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - Reserved Slots                   1.10.0.6540                      reservedslots.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - ShowPos                          0.0.2                            showpos.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - Sound Commands                   1.10.0.6540                      sounds.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - Zone Stopwatch                   1.01                             ztopwatch.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]   - NightVision                      1.0.1                            nightvision.smx
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx] Test results:
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx] > Server tickrate
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]     [STATE]    PASS
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx] > Server password
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]     [STATE]    PASS
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx] > -nobots parameter
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]     [STATE]    PASS
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx] > Bad plugins
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]     [STATE]    PASS
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx] > GlobalAPI
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]     [STATE]    PASS
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx] > GOKZ-Global
+L 06/08/2022 - 13:31:40: [KZServerAdvisor.smx]     [STATE]    PASS
+L 06/08/2022 - 13:32:30: Log file closed.
+L 06/08/2022 - 13:33:25: SourceMod log file session started (file "/root/kz-server/csgo/addons/sourcemod/logs/L20220608.log") (Version "1.10.0.6540")
+L 06/08/2022 - 13:33:25: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx] Version: 1.2.0
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx] Timestamp: 1654695217 (06/08/22 13:33:37)
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx] Ran by: Console (N/A)
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx] Server Hostname: "KZ India Community | GOKZ"
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx] Server IP & Port: "127.0.0.1:27015"
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx] Plugin list:
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   Name                               Version                          File
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - Admin File Reader                1.10.0.6540                      admin-flatfile.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - Admin Help                       1.10.0.6540                      adminhelp.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - Admin Menu                       1.10.0.6540                      adminmenu.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - Anti-Flood                       1.10.0.6540                      antiflood.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - Basic Ban Commands               1.10.0.6540                      basebans.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - Basic Chat                       1.10.0.6540                      basechat.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - Basic Commands                   1.10.0.6540                      basecommands.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - Basic Comm Control               1.10.0.6540                      basecomm.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - Basic Info Triggers              1.10.0.6540                      basetriggers.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - Basic Votes                      1.10.0.6540                      basevotes.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - Client Preferences               1.10.0.6540                      clientprefs.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - Distance Bug Fix                 1.2.2                            distbugfix.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - GCMeasure                        1.00                             gcmeasure.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - GlobalAPI-Logging-Flatfile       2.0.4                            GlobalAPI-Logging-Flatfile.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - GlobalAPI-Retrying-Binary        2.0.4                            GlobalAPI-Retrying-Binary.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - GlobalAPI                        2.0.4                            GlobalAPI.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - GlobalPB                         v1.2.1                           globalpb.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - GOKZ Anti-Cheat                  3.3.0                            gokz-anticheat.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - GOKZ Chat                        3.3.0                            gokz-chat.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - GOKZ Core                        3.3.0                            gokz-core.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - GOKZ KZErrorBoxFixer             3.3.0                            gokz-errorboxfixer.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - GOKZ Global                      3.3.0                            gokz-global.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - GOKZ Goto                        3.3.0                            gokz-goto.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - GOKZ HUD                         3.3.0                            gokz-hud.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - GOKZ Jump Beam                   3.3.0                            gokz-jumpbeam.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - GOKZ Jumpstats                   3.3.0                            gokz-jumpstats.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - GOKZ Local DB                    3.3.0                            gokz-localdb.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - GOKZ Local Ranks                 3.3.0                            gokz-localranks.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - GOKZ Measure                     3.3.0                            gokz-measure.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - GOKZ Mode - KZTimer              3.3.0                            gokz-mode-kztimer.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - GOKZ Mode - SimpleKZ             3.3.0                            gokz-mode-simplekz.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - GOKZ Mode - Vanilla              3.3.0                            gokz-mode-vanilla.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - GOKZ Momsurffix                  3.3.0                            gokz-momsurffix.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - GOKZ Paint                       3.3.0                            gokz-paint.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - GOKZ Pistol                      3.3.0                            gokz-pistol.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - GOKZ Player Models               3.3.0                            gokz-playermodels.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - GOKZ Profile                     3.3.0                            gokz-profile.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - GOKZ Quiet                       3.3.0                            gokz-quiet.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - GOKZ Racing                      3.3.0                            gokz-racing.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - GOKZ Replays                     3.3.0                            gokz-replays.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - GOKZ SaveLoc                     3.3.0                            gokz-saveloc.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - GOKZ Slay On End                 3.3.0                            gokz-slayonend.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - GOKZ Spectate Menu               3.3.0                            gokz-spec.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - GOKZ Tips                        3.3.0                            gokz-tips.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - LJ Room Teleport                 1.0                              kzlj.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - MapChooser with map tiers        1.10.0.6484                      mapchooser_tier.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - CSGO Panorama Map Change Cras... 1.0.6                            mapcrashfixer.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - More Stats                       v3.0.2                           more-stats.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - MovementAPI                      2.3.0                            movementapi.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - MovementHUD                      3.0.1                            movementhud.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - Nextmap                          1.10.0.6540                      nextmap.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - No More Sounds                   v1.0.1                           no-more-sounds.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - Reserved Slots                   1.10.0.6540                      reservedslots.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - ShowPos                          0.0.2                            showpos.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - Sound Commands                   1.10.0.6540                      sounds.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - Zone Stopwatch                   1.01                             ztopwatch.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]   - NightVision                      1.0.1                            nightvision.smx
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx] Test results:
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx] > Server tickrate
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]     [STATE]    PASS
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx] > Server password
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]     [STATE]    PASS
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx] > -nobots parameter
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]     [STATE]    PASS
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx] > Bad plugins
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]     [STATE]    PASS
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx] > GlobalAPI
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]     [STATE]    PASS
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx] > GOKZ-Global
+L 06/08/2022 - 13:33:37: [KZServerAdvisor.smx]     [STATE]    PASS
+L 06/08/2022 - 13:33:44: Log file closed.
+L 06/08/2022 - 13:33:57: SourceMod log file session started (file "/root/kz-server/csgo/addons/sourcemod/logs/L20220608.log") (Version "1.10.0.6540")
+L 06/08/2022 - 13:33:57: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx] Version: 1.2.0
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx] Timestamp: 1654695245 (06/08/22 13:34:05)
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx] Ran by: Console (N/A)
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx] Server Hostname: "KZ India Community | GOKZ"
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx] Server IP & Port: "127.0.0.1:27015"
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx] Plugin list:
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   Name                               Version                          File
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - Admin File Reader                1.10.0.6540                      admin-flatfile.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - Admin Help                       1.10.0.6540                      adminhelp.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - Admin Menu                       1.10.0.6540                      adminmenu.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - Anti-Flood                       1.10.0.6540                      antiflood.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - Basic Ban Commands               1.10.0.6540                      basebans.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - Basic Chat                       1.10.0.6540                      basechat.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - Basic Commands                   1.10.0.6540                      basecommands.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - Basic Comm Control               1.10.0.6540                      basecomm.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - Basic Info Triggers              1.10.0.6540                      basetriggers.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - Basic Votes                      1.10.0.6540                      basevotes.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - Client Preferences               1.10.0.6540                      clientprefs.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - Distance Bug Fix                 1.2.2                            distbugfix.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - GCMeasure                        1.00                             gcmeasure.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - GlobalAPI-Logging-Flatfile       2.0.4                            GlobalAPI-Logging-Flatfile.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - GlobalAPI-Retrying-Binary        2.0.4                            GlobalAPI-Retrying-Binary.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - GlobalAPI                        2.0.4                            GlobalAPI.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - GlobalPB                         v1.2.1                           globalpb.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - GOKZ Anti-Cheat                  3.3.0                            gokz-anticheat.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - GOKZ Chat                        3.3.0                            gokz-chat.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - GOKZ Core                        3.3.0                            gokz-core.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - GOKZ KZErrorBoxFixer             3.3.0                            gokz-errorboxfixer.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - GOKZ Global                      3.3.0                            gokz-global.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - GOKZ Goto                        3.3.0                            gokz-goto.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - GOKZ HUD                         3.3.0                            gokz-hud.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - GOKZ Jump Beam                   3.3.0                            gokz-jumpbeam.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - GOKZ Jumpstats                   3.3.0                            gokz-jumpstats.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - GOKZ Local DB                    3.3.0                            gokz-localdb.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - GOKZ Local Ranks                 3.3.0                            gokz-localranks.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - GOKZ Measure                     3.3.0                            gokz-measure.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - GOKZ Mode - KZTimer              3.3.0                            gokz-mode-kztimer.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - GOKZ Mode - SimpleKZ             3.3.0                            gokz-mode-simplekz.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - GOKZ Mode - Vanilla              3.3.0                            gokz-mode-vanilla.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - GOKZ Momsurffix                  3.3.0                            gokz-momsurffix.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - GOKZ Paint                       3.3.0                            gokz-paint.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - GOKZ Pistol                      3.3.0                            gokz-pistol.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - GOKZ Player Models               3.3.0                            gokz-playermodels.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - GOKZ Profile                     3.3.0                            gokz-profile.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - GOKZ Quiet                       3.3.0                            gokz-quiet.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - GOKZ Racing                      3.3.0                            gokz-racing.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - GOKZ Replays                     3.3.0                            gokz-replays.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - GOKZ SaveLoc                     3.3.0                            gokz-saveloc.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - GOKZ Slay On End                 3.3.0                            gokz-slayonend.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - GOKZ Spectate Menu               3.3.0                            gokz-spec.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - GOKZ Tips                        3.3.0                            gokz-tips.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - LJ Room Teleport                 1.0                              kzlj.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - MapChooser with map tiers        1.10.0.6484                      mapchooser_tier.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - CSGO Panorama Map Change Cras... 1.0.6                            mapcrashfixer.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - More Stats                       v3.0.2                           more-stats.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - MovementAPI                      2.3.0                            movementapi.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - MovementHUD                      3.0.1                            movementhud.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - Nextmap                          1.10.0.6540                      nextmap.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - No More Sounds                   v1.0.1                           no-more-sounds.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - Reserved Slots                   1.10.0.6540                      reservedslots.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - ShowPos                          0.0.2                            showpos.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - Sound Commands                   1.10.0.6540                      sounds.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - Zone Stopwatch                   1.01                             ztopwatch.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]   - NightVision                      1.0.1                            nightvision.smx
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx] Test results:
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx] > Server tickrate
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]     [STATE]    PASS
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx] > Server password
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]     [STATE]    PASS
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx] > -nobots parameter
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]     [STATE]    PASS
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx] > Bad plugins
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]     [STATE]    PASS
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx] > GlobalAPI
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]     [STATE]    PASS
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx] > GOKZ-Global
+L 06/08/2022 - 13:34:05: [KZServerAdvisor.smx]     [STATE]    PASS
+L 06/08/2022 - 13:35:18: -------- Mapchange to kz_rectangle --------
+L 06/08/2022 - 13:35:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 13:35:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 13:35:23: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 13:35:23: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 13:35:23: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 13:35:23: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 13:35:23: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 14:11:45: -------- Mapchange to kz_rectangle --------
+L 06/08/2022 - 14:11:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 14:11:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 14:11:50: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 14:11:51: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 14:11:51: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 14:11:51: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 14:11:51: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 14:20:48: -------- Mapchange to kz_rectangle --------
+L 06/08/2022 - 14:20:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 14:20:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 14:20:53: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 14:20:53: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 14:20:53: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 14:20:53: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 14:20:53: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 14:27:08: -------- Mapchange to kz_rectangle --------
+L 06/08/2022 - 14:27:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 14:27:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 14:27:13: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 14:27:13: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 14:27:13: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 14:27:13: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 14:27:13: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 14:29:21: -------- Mapchange to kz_rectangle --------
+L 06/08/2022 - 14:29:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 14:29:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 14:29:26: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 14:29:26: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 14:29:26: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 14:29:26: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 14:29:26: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 15:08:49: -------- Mapchange to kz_rectangle --------
+L 06/08/2022 - 15:08:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 15:08:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 15:08:54: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 15:08:54: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 15:08:54: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 15:08:54: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 15:08:55: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 17:15:36: -------- Mapchange to kz_rectangle --------
+L 06/08/2022 - 17:15:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 17:15:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 17:15:41: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 17:15:41: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 17:15:41: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 17:15:41: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 17:15:41: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 20:04:31: -------- Mapchange to kz_rectangle --------
+L 06/08/2022 - 20:04:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 20:04:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 20:04:36: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 20:04:36: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 20:04:36: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 20:04:37: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 20:04:37: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 22:40:50: -------- Mapchange to kz_rectangle --------
+L 06/08/2022 - 22:40:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 22:40:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 22:40:55: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 22:40:55: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 22:40:55: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 22:40:55: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 22:40:55: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 23:53:28: -------- Mapchange to kz_rectangle --------
+L 06/08/2022 - 23:53:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 06/08/2022 - 23:53:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "net_maxcleartime") (value "0.001")
+L 06/08/2022 - 23:53:33: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 23:53:33: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 23:53:33: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 23:53:33: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/08/2022 - 23:53:33: [mapchooser_tier.smx] Failed to read jsonData2
+L 06/09/2022 - 00:06:21: Log file closed.

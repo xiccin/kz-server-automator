@@ -1,0 +1,552 @@
+L 06/09/2022 - 00:06:34: SourceMod error session started
+L 06/09/2022 - 00:06:34: Info (map "de_train") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 00:06:34: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 00:06:34: [GlobalAPI.smx] json_decode: character not identified as object or array at position 0
+L 06/09/2022 - 00:06:34: [gokz-global.smx] Failed to get map info.
+L 06/09/2022 - 00:06:34: [GlobalAPI.smx] json_decode: character not identified as object or array at position 0
+L 06/09/2022 - 00:06:34: [gokz-global.smx] Failed to get map info.
+L 06/09/2022 - 00:06:34: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 00:07:38: Error log file session closed.
+L 06/09/2022 - 00:07:46: SourceMod error session started
+L 06/09/2022 - 00:07:46: Info (map "de_train") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 00:07:46: [GlobalAPI.smx] json_decode: character not identified as object or array at position 0
+L 06/09/2022 - 00:07:46: [gokz-global.smx] Failed to get map info.
+L 06/09/2022 - 00:07:46: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 00:07:46: [GlobalAPI.smx] json_decode: character not identified as object or array at position 0
+L 06/09/2022 - 00:07:46: [gokz-global.smx] Failed to get map info.
+L 06/09/2022 - 00:07:46: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 00:09:14: Error log file session closed.
+L 06/09/2022 - 00:09:23: SourceMod error session started
+L 06/09/2022 - 00:09:23: Info (map "kz_kzra_morath") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 00:09:23: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 00:09:23: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 00:09:24: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 00:38:18: Error log file session closed.
+L 06/09/2022 - 00:38:26: SourceMod error session started
+L 06/09/2022 - 00:38:26: Info (map "kz_kzra_morath") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 00:38:26: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 00:38:26: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 00:41:34: Error log file session closed.
+L 06/09/2022 - 00:41:42: SourceMod error session started
+L 06/09/2022 - 00:41:42: Info (map "kz_kzra_morath") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 00:41:42: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 00:41:42: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 00:43:38: Error log file session closed.
+L 06/09/2022 - 00:43:48: SourceMod error session started
+L 06/09/2022 - 00:43:48: Info (map "kz_spire") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 00:43:48: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 00:43:48: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 00:43:48: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 00:59:39: Error log file session closed.
+L 06/09/2022 - 00:59:46: SourceMod error session started
+L 06/09/2022 - 00:59:46: Info (map "kz_spire") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 00:59:46: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 00:59:46: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 01:01:01: Error log file session closed.
+L 06/09/2022 - 01:01:08: SourceMod error session started
+L 06/09/2022 - 01:01:08: Info (map "kz_rectangle") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 01:01:08: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 01:01:08: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 01:02:26: Error log file session closed.
+L 06/09/2022 - 01:02:34: SourceMod error session started
+L 06/09/2022 - 01:02:34: Info (map "kz_rectangle") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 01:02:34: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 01:02:34: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 01:02:59: Error log file session closed.
+L 06/09/2022 - 01:03:05: SourceMod error session started
+L 06/09/2022 - 01:03:05: Info (map "bkz_bonus_z1") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 01:03:05: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 01:03:05: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 01:03:05: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 01:05:36: Error log file session closed.
+L 06/09/2022 - 01:05:43: SourceMod error session started
+L 06/09/2022 - 01:05:43: Info (map "bkz_bonus_z1") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 01:05:43: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 01:05:43: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 01:07:38: Error log file session closed.
+L 06/09/2022 - 01:07:44: SourceMod error session started
+L 06/09/2022 - 01:07:44: Info (map "bkz_bonus_z1") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 01:07:44: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 01:07:44: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 01:09:29: Error log file session closed.
+L 06/09/2022 - 01:09:35: SourceMod error session started
+L 06/09/2022 - 01:09:35: Info (map "kz_rectangle") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 01:09:35: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 01:09:35: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 01:14:28: Error log file session closed.
+L 06/09/2022 - 01:14:35: SourceMod error session started
+L 06/09/2022 - 01:14:35: Info (map "kz_rectangle") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 01:14:35: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 01:14:35: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 01:15:06: Error log file session closed.
+L 06/09/2022 - 01:15:10: SourceMod error session started
+L 06/09/2022 - 01:15:10: Info (map "kz_evilcorp") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 01:15:10: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 01:15:10: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 01:15:29: Error log file session closed.
+L 06/09/2022 - 01:15:33: SourceMod error session started
+L 06/09/2022 - 01:15:33: Info (map "kz_rectangle") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 01:15:33: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 01:15:33: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 01:15:52: Error log file session closed.
+L 06/09/2022 - 01:15:58: SourceMod error session started
+L 06/09/2022 - 01:15:58: Info (map "kz_spire") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 01:15:58: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 01:15:58: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 01:20:01: Error log file session closed.
+L 06/09/2022 - 01:20:07: SourceMod error session started
+L 06/09/2022 - 01:20:07: Info (map "bkz_bonus_z1") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 01:20:07: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 01:20:07: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 01:21:02: Error log file session closed.
+L 06/09/2022 - 01:21:06: SourceMod error session started
+L 06/09/2022 - 01:21:06: Info (map "bkz_bonus_z1") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 01:21:06: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 01:21:06: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 01:21:32: Error log file session closed.
+L 06/09/2022 - 01:21:38: SourceMod error session started
+L 06/09/2022 - 01:21:38: Info (map "bkz_bonus_z1") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 01:21:38: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 01:21:38: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 01:22:55: Error log file session closed.
+L 06/09/2022 - 01:23:01: SourceMod error session started
+L 06/09/2022 - 01:23:01: Info (map "bkz_bonus_z1") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 01:23:01: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 01:23:01: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 01:23:19: Error log file session closed.
+L 06/09/2022 - 01:23:23: SourceMod error session started
+L 06/09/2022 - 01:23:23: Info (map "bkz_bonus_z1") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 01:23:23: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 01:23:23: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 01:23:58: Error log file session closed.
+L 06/09/2022 - 01:24:02: SourceMod error session started
+L 06/09/2022 - 01:24:02: Info (map "bkz_bonus_z1") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 01:24:02: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 01:24:02: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 01:25:07: Error log file session closed.
+L 06/09/2022 - 01:25:14: SourceMod error session started
+L 06/09/2022 - 01:25:14: Info (map "kz_spire") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 01:25:14: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 01:25:14: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 01:39:17: SourceMod error session started
+L 06/09/2022 - 01:39:17: Info (map "kz_rectangle") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 01:39:17: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 01:39:17: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 01:39:39: Error log file session closed.
+L 06/09/2022 - 01:39:43: SourceMod error session started
+L 06/09/2022 - 01:39:43: Info (map "bkz_bonus_z1") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 01:39:43: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 01:39:43: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 01:40:03: Error log file session closed.
+L 06/09/2022 - 01:40:07: SourceMod error session started
+L 06/09/2022 - 01:40:07: Info (map "kz_spire") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 01:40:07: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 01:40:07: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 01:40:26: Error log file session closed.
+L 06/09/2022 - 01:40:33: SourceMod error session started
+L 06/09/2022 - 01:40:33: Info (map "bkz_bonus_z1") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 01:40:33: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 01:40:33: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 01:41:28: Error log file session closed.
+L 06/09/2022 - 01:41:32: SourceMod error session started
+L 06/09/2022 - 01:41:32: Info (map "bkz_bonus_z1") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 01:41:32: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 01:41:32: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 01:50:08: Error log file session closed.
+L 06/09/2022 - 01:50:14: SourceMod error session started
+L 06/09/2022 - 01:50:14: Info (map "bkz_bonus_z1") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 01:50:14: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 01:50:14: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 02:10:04: Error log file session closed.
+L 06/09/2022 - 02:12:56: SourceMod error session started
+L 06/09/2022 - 02:12:56: Info (map "bkz_cauz_final") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 02:12:56: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 02:17:55: Error log file session closed.
+L 06/09/2022 - 02:19:20: SourceMod error session started
+L 06/09/2022 - 02:19:20: Info (map "bkz_cauz_final") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 02:19:20: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 02:19:21: Error log file session closed.
+L 06/09/2022 - 02:19:25: SourceMod error session started
+L 06/09/2022 - 02:19:25: Info (map "bkz_cauz_final") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 02:19:25: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 02:19:25: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 02:19:57: Error log file session closed.
+L 06/09/2022 - 02:20:04: SourceMod error session started
+L 06/09/2022 - 02:20:04: Info (map "bkz_bonus_z1") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 02:20:04: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 02:20:04: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 02:20:26: Error log file session closed.
+L 06/09/2022 - 02:20:30: SourceMod error session started
+L 06/09/2022 - 02:20:30: Info (map "bkz_bonus_z1") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 02:20:30: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 02:20:30: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 02:21:16: Error log file session closed.
+L 06/09/2022 - 02:21:23: SourceMod error session started
+L 06/09/2022 - 02:21:23: Info (map "bkz_bonus_z1") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 02:21:23: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 02:21:23: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 02:21:39: Error log file session closed.
+L 06/09/2022 - 02:21:43: SourceMod error session started
+L 06/09/2022 - 02:21:43: Info (map "kz_spire") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 02:21:43: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 02:21:43: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 02:23:00: Error log file session closed.
+L 06/09/2022 - 02:23:06: SourceMod error session started
+L 06/09/2022 - 02:23:06: Info (map "bkz_bonus_z1") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 02:23:06: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 02:23:06: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 02:31:00: Error log file session closed.
+L 06/09/2022 - 02:31:07: SourceMod error session started
+L 06/09/2022 - 02:31:07: Info (map "bkz_bonus_z1") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 02:31:07: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 02:31:07: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 02:49:19: Error log file session closed.
+L 06/09/2022 - 02:49:26: SourceMod error session started
+L 06/09/2022 - 02:49:26: Info (map "bkz_bonus_z1") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 02:49:26: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 02:49:26: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 02:50:52: Error log file session closed.
+L 06/09/2022 - 02:51:07: SourceMod error session started
+L 06/09/2022 - 02:51:07: Info (map "kz_rectangle") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 02:51:07: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 02:51:37: Error log file session closed.
+L 06/09/2022 - 02:51:41: SourceMod error session started
+L 06/09/2022 - 02:51:41: Info (map "kz_rectangle") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 02:51:41: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 02:51:41: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 02:52:24: Error log file session closed.
+L 06/09/2022 - 02:52:30: SourceMod error session started
+L 06/09/2022 - 02:52:30: Info (map "kz_rectangle") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 02:52:30: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 02:52:30: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 02:53:00: Error log file session closed.
+L 06/09/2022 - 02:53:05: SourceMod error session started
+L 06/09/2022 - 02:53:05: Info (map "kz_rectangle") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 02:53:05: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 02:53:05: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 02:53:17: Error log file session closed.
+L 06/09/2022 - 02:53:21: SourceMod error session started
+L 06/09/2022 - 02:53:21: Info (map "kz_rectangle") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 02:53:21: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 02:53:21: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 02:53:34: Error log file session closed.
+L 06/09/2022 - 02:53:38: SourceMod error session started
+L 06/09/2022 - 02:53:38: Info (map "kz_rectangle") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 02:53:38: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 02:53:38: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 02:53:53: Error log file session closed.
+L 06/09/2022 - 02:53:59: SourceMod error session started
+L 06/09/2022 - 02:53:59: Info (map "bkz_bonus_z1") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 02:53:59: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 02:53:59: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 02:54:17: Error log file session closed.
+L 06/09/2022 - 02:54:21: SourceMod error session started
+L 06/09/2022 - 02:54:21: Info (map "kz_dakow") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 02:54:21: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 02:54:21: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 06:14:12: Error log file session closed.
+L 06/09/2022 - 06:14:18: SourceMod error session started
+L 06/09/2022 - 06:14:18: Info (map "kz_dakow") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 06:14:18: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 06:14:18: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 06:23:47: Error log file session closed.
+L 06/09/2022 - 06:23:53: SourceMod error session started
+L 06/09/2022 - 06:23:53: Info (map "kz_dakow") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 06:23:53: [gokz-localdb.smx] Database transaction error: attempt to write a readonly database
+L 06/09/2022 - 06:23:53: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 06:23:53: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 06:23:54: [gokz-localdb.smx] Database transaction error: attempt to write a readonly database
+L 06/09/2022 - 06:24:11: [more-stats.smx] [MoreStats] attempt to write a readonly database
+L 06/09/2022 - 06:24:11: [more-stats.smx] [MoreStats] attempt to write a readonly database
+L 06/09/2022 - 06:24:11: [more-stats.smx] [MoreStats] attempt to write a readonly database
+L 06/09/2022 - 06:25:20: Error log file session closed.
+L 06/09/2022 - 06:25:26: SourceMod error session started
+L 06/09/2022 - 06:25:26: Info (map "kz_rectangle") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 06:25:26: [gokz-localdb.smx] Database transaction error: attempt to write a readonly database
+L 06/09/2022 - 06:25:26: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 06:25:26: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 06:26:31: Error log file session closed.
+L 06/09/2022 - 06:26:37: SourceMod error session started
+L 06/09/2022 - 06:26:37: Info (map "kz_rectangle") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 06:26:37: [gokz-localdb.smx] Database transaction error: attempt to write a readonly database
+L 06/09/2022 - 06:26:37: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 06:26:37: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 06:28:25: Error log file session closed.
+L 06/09/2022 - 06:32:49: SourceMod error session started
+L 06/09/2022 - 06:32:49: Info (map "kz_rectangle") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 06:32:49: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 06:32:49: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 06:33:23: Error log file session closed.
+L 06/09/2022 - 06:33:27: SourceMod error session started
+L 06/09/2022 - 06:33:27: Info (map "kz_dakow") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 06:33:27: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 06:33:27: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 07:08:16: Error log file session closed.
+L 06/09/2022 - 07:08:23: SourceMod error session started
+L 06/09/2022 - 07:08:23: Info (map "kz_dakow") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 07:08:23: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 07:08:23: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 07:09:05: Error log file session closed.
+L 06/09/2022 - 07:09:09: SourceMod error session started
+L 06/09/2022 - 07:09:09: Info (map "bkz_bonus_z1") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 07:09:09: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 07:09:09: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 07:09:38: Error log file session closed.
+L 06/09/2022 - 07:09:44: SourceMod error session started
+L 06/09/2022 - 07:09:44: Info (map "bkz_bonus_z1") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 07:09:44: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 07:09:44: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 07:48:24: SourceMod error session started
+L 06/09/2022 - 07:48:24: Info (map "kz_rectangle") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 07:48:24: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 07:48:24: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 09:50:53: Error log file session closed.
+L 06/09/2022 - 09:50:59: SourceMod error session started
+L 06/09/2022 - 09:50:59: Info (map "kz_rectangle") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 09:50:59: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 09:50:59: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 10:32:52: Error log file session closed.
+L 06/09/2022 - 10:32:58: SourceMod error session started
+L 06/09/2022 - 10:32:58: Info (map "kz_rectangle") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 10:32:58: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 10:32:58: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 11:31:48: Error log file session closed.
+L 06/09/2022 - 11:31:48: SourceMod error session started
+L 06/09/2022 - 11:31:48: Info (map "kz_rectangle") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 11:31:48: [SM] Unable to load extension "PTaH.ext": /root/kz-server/csgo/addons/sourcemod/extensions/PTaH.ext.so: cannot open shared object file: No such file or directory
+L 06/09/2022 - 11:31:48: [SM] Unable to load plugin "weapons.smx": Required extension "PTaH" file("PTaH.ext") not running
+L 06/09/2022 - 11:31:54: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 11:31:54: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 11:33:24: Error log file session closed.
+L 06/09/2022 - 11:33:30: SourceMod error session started
+L 06/09/2022 - 11:33:30: Info (map "kz_rectangle") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 11:33:30: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 11:33:30: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 11:33:47: Error log file session closed.
+L 06/09/2022 - 11:33:51: SourceMod error session started
+L 06/09/2022 - 11:33:51: Info (map "kz_rectangle") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 11:33:51: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 11:33:51: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 11:35:19: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 06/09/2022 - 11:35:19: [SM] Blaming: gloves.smx
+L 06/09/2022 - 11:35:19: [SM] Call stack trace:
+L 06/09/2022 - 11:35:19: [SM]   [0] SetEntProp
+L 06/09/2022 - 11:35:19: [SM]   [1] Line 152, tmp/addons/sourcemod/scripting/gloves.sp::GivePlayerGloves
+L 06/09/2022 - 11:35:19: [SM]   [2] Line 57, tmp/addons/sourcemod/scripting/gloves/menus.sp::GloveMenuHandler
+L 06/09/2022 - 11:35:37: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 06/09/2022 - 11:35:37: [SM] Blaming: gloves.smx
+L 06/09/2022 - 11:35:37: [SM] Call stack trace:
+L 06/09/2022 - 11:35:37: [SM]   [0] SetEntProp
+L 06/09/2022 - 11:35:37: [SM]   [1] Line 152, tmp/addons/sourcemod/scripting/gloves.sp::GivePlayerGloves
+L 06/09/2022 - 11:35:37: [SM]   [2] Line 57, tmp/addons/sourcemod/scripting/gloves/menus.sp::GloveMenuHandler
+L 06/09/2022 - 11:49:58: Error log file session closed.
+L 06/09/2022 - 11:50:05: SourceMod error session started
+L 06/09/2022 - 11:50:05: Info (map "kz_rectangle") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 11:50:05: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 11:50:05: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 11:50:22: Error log file session closed.
+L 06/09/2022 - 11:50:27: SourceMod error session started
+L 06/09/2022 - 11:50:27: Info (map "kz_rectangle") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 11:50:27: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 11:50:27: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 11:50:36: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 06/09/2022 - 11:50:36: [SM] Blaming: gloves.smx
+L 06/09/2022 - 11:50:36: [SM] Call stack trace:
+L 06/09/2022 - 11:50:36: [SM]   [0] SetEntProp
+L 06/09/2022 - 11:50:36: [SM]   [1] Line 152, tmp/addons/sourcemod/scripting/gloves.sp::GivePlayerGloves
+L 06/09/2022 - 11:50:36: [SM]   [2] Line 23, tmp/addons/sourcemod/scripting/gloves/hooks.sp::Event_PlayerSpawn
+L 06/09/2022 - 11:50:36: [SM]   [4] CS_RespawnPlayer
+L 06/09/2022 - 11:50:36: [SM]   [5] Line 275, gokz-core/misc.sp::JoinTeam
+L 06/09/2022 - 11:50:36: [SM]   [6] Line 544, gokz-core/natives.sp::Native_JoinTeam
+L 06/09/2022 - 11:50:36: [SM]   [8] GOKZ_JoinTeam
+L 06/09/2022 - 11:50:36: [SM]   [9] Line 87, gokz-core/commands.sp::CommandJoinTeam
+L 06/09/2022 - 11:53:07: Error log file session closed.
+L 06/09/2022 - 11:53:33: SourceMod error session started
+L 06/09/2022 - 11:53:33: Info (map "kz_rectangle") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 11:53:33: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 11:55:15: Error log file session closed.
+L 06/09/2022 - 11:55:22: SourceMod error session started
+L 06/09/2022 - 11:55:22: Info (map "kz_rectangle") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 11:55:22: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 11:55:22: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 11:55:33: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 06/09/2022 - 11:55:33: [SM] Blaming: gloves.smx
+L 06/09/2022 - 11:55:33: [SM] Call stack trace:
+L 06/09/2022 - 11:55:33: [SM]   [0] SetEntProp
+L 06/09/2022 - 11:55:33: [SM]   [1] Line 152, tmp/addons/sourcemod/scripting/gloves.sp::GivePlayerGloves
+L 06/09/2022 - 11:55:33: [SM]   [2] Line 23, tmp/addons/sourcemod/scripting/gloves/hooks.sp::Event_PlayerSpawn
+L 06/09/2022 - 11:55:33: [SM]   [4] CS_RespawnPlayer
+L 06/09/2022 - 11:55:33: [SM]   [5] Line 275, gokz-core/misc.sp::JoinTeam
+L 06/09/2022 - 11:55:33: [SM]   [6] Line 544, gokz-core/natives.sp::Native_JoinTeam
+L 06/09/2022 - 11:55:33: [SM]   [8] GOKZ_JoinTeam
+L 06/09/2022 - 11:55:33: [SM]   [9] Line 87, gokz-core/commands.sp::CommandJoinTeam
+L 06/09/2022 - 11:55:43: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 06/09/2022 - 11:55:43: [SM] Blaming: weapons.smx
+L 06/09/2022 - 11:55:43: [SM] Call stack trace:
+L 06/09/2022 - 11:55:43: [SM]   [0] SetEntProp
+L 06/09/2022 - 11:55:43: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 06/09/2022 - 11:55:43: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 06/09/2022 - 11:55:43: [SM]   [4] GivePlayerItem
+L 06/09/2022 - 11:55:43: [SM]   [5] Line 336, tmp/addons/sourcemod/scripting/weapons.sp::RefreshWeapon
+L 06/09/2022 - 11:55:43: [SM]   [6] Line 39, tmp/addons/sourcemod/scripting/weapons/menus.sp::WeaponsMenuHandler
+L 06/09/2022 - 11:55:43: [SM] Exception reported: Invalid data pack handle 726563 (error 4).
+L 06/09/2022 - 11:55:43: [SM] Blaming: weapons.smx
+L 06/09/2022 - 11:55:43: [SM] Call stack trace:
+L 06/09/2022 - 11:55:43: [SM]   [0] DataPack.WriteCell
+L 06/09/2022 - 11:55:43: [SM]   [1] Line 349, tmp/addons/sourcemod/scripting/weapons.sp::RefreshWeapon
+L 06/09/2022 - 11:55:43: [SM]   [2] Line 39, tmp/addons/sourcemod/scripting/weapons/menus.sp::WeaponsMenuHandler
+L 06/09/2022 - 11:55:43: [SM] Exception reported: Data pack operation is out of bounds.
+L 06/09/2022 - 11:55:43: [SM] Blaming: weapons.smx
+L 06/09/2022 - 11:55:43: [SM] Call stack trace:
+L 06/09/2022 - 11:55:43: [SM]   [0] DataPack.ReadCell
+L 06/09/2022 - 11:55:43: [SM]   [1] Line 367, tmp/addons/sourcemod/scripting/weapons.sp::ReserveAmmoTimer
+L 06/09/2022 - 11:56:18: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 06/09/2022 - 11:56:18: [SM] Blaming: gloves.smx
+L 06/09/2022 - 11:56:18: [SM] Call stack trace:
+L 06/09/2022 - 11:56:18: [SM]   [0] SetEntProp
+L 06/09/2022 - 11:56:18: [SM]   [1] Line 152, tmp/addons/sourcemod/scripting/gloves.sp::GivePlayerGloves
+L 06/09/2022 - 11:56:18: [SM]   [2] Line 57, tmp/addons/sourcemod/scripting/gloves/menus.sp::GloveMenuHandler
+L 06/09/2022 - 11:58:14: Error log file session closed.
+L 06/09/2022 - 11:58:59: SourceMod error session started
+L 06/09/2022 - 11:58:59: Info (map "kz_rectangle") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 11:58:59: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 11:59:03: Error log file session closed.
+L 06/09/2022 - 11:59:07: SourceMod error session started
+L 06/09/2022 - 11:59:07: Info (map "kz_rectangle") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 11:59:07: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 11:59:07: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 11:59:14: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 06/09/2022 - 11:59:14: [SM] Blaming: gloves.smx
+L 06/09/2022 - 11:59:14: [SM] Call stack trace:
+L 06/09/2022 - 11:59:14: [SM]   [0] SetEntProp
+L 06/09/2022 - 11:59:14: [SM]   [1] Line 152, tmp/addons/sourcemod/scripting/gloves.sp::GivePlayerGloves
+L 06/09/2022 - 11:59:14: [SM]   [2] Line 23, tmp/addons/sourcemod/scripting/gloves/hooks.sp::Event_PlayerSpawn
+L 06/09/2022 - 11:59:14: [SM]   [4] CS_RespawnPlayer
+L 06/09/2022 - 11:59:14: [SM]   [5] Line 275, gokz-core/misc.sp::JoinTeam
+L 06/09/2022 - 11:59:14: [SM]   [6] Line 544, gokz-core/natives.sp::Native_JoinTeam
+L 06/09/2022 - 11:59:14: [SM]   [8] GOKZ_JoinTeam
+L 06/09/2022 - 11:59:14: [SM]   [9] Line 87, gokz-core/commands.sp::CommandJoinTeam
+L 06/09/2022 - 11:59:14: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 06/09/2022 - 11:59:14: [SM] Blaming: weapons.smx
+L 06/09/2022 - 11:59:14: [SM] Call stack trace:
+L 06/09/2022 - 11:59:14: [SM]   [0] SetEntProp
+L 06/09/2022 - 11:59:14: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 06/09/2022 - 11:59:14: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 06/09/2022 - 11:59:14: [SM]   [4] GivePlayerItem
+L 06/09/2022 - 11:59:14: [SM]   [5] Line 162, gokz-pistol.sp::GivePistol
+L 06/09/2022 - 11:59:14: [SM]   [6] Line 121, gokz-pistol.sp::UpdatePistol
+L 06/09/2022 - 11:59:14: [SM]   [7] Line 84, gokz-pistol.sp::OnPlayerSpawn
+L 06/09/2022 - 11:59:14: [SM]   [9] CS_RespawnPlayer
+L 06/09/2022 - 11:59:14: [SM]   [10] Line 275, gokz-core/misc.sp::JoinTeam
+L 06/09/2022 - 11:59:14: [SM]   [11] Line 544, gokz-core/natives.sp::Native_JoinTeam
+L 06/09/2022 - 11:59:14: [SM]   [13] GOKZ_JoinTeam
+L 06/09/2022 - 11:59:14: [SM]   [14] Line 87, gokz-core/commands.sp::CommandJoinTeam
+L 06/09/2022 - 12:01:27: Error log file session closed.
+L 06/09/2022 - 12:01:39: SourceMod error session started
+L 06/09/2022 - 12:01:39: Info (map "kz_rectangle") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 12:01:39: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 12:01:40: Error log file session closed.
+L 06/09/2022 - 12:01:45: SourceMod error session started
+L 06/09/2022 - 12:01:45: Info (map "kz_rectangle") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 12:01:45: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 12:01:45: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 12:17:03: Error log file session closed.
+L 06/09/2022 - 12:17:10: SourceMod error session started
+L 06/09/2022 - 12:17:10: Info (map "kz_rectangle") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 12:17:10: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 12:17:10: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 12:18:20: Error log file session closed.
+L 06/09/2022 - 12:18:27: SourceMod error session started
+L 06/09/2022 - 12:18:27: Info (map "kz_rectangle") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 12:18:27: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 12:18:27: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 12:18:53: Error log file session closed.
+L 06/09/2022 - 12:18:58: SourceMod error session started
+L 06/09/2022 - 12:18:58: Info (map "kz_rectangle") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 12:18:58: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 12:18:58: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 12:20:44: Error log file session closed.
+L 06/09/2022 - 12:20:51: SourceMod error session started
+L 06/09/2022 - 12:20:51: Info (map "kz_rectangle") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 12:20:51: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 12:20:51: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 12:22:13: Error log file session closed.
+L 06/09/2022 - 12:22:14: SourceMod error session started
+L 06/09/2022 - 12:22:14: Info (map "kz_rectangle") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 12:22:14: [SM] Exception reported: Failed to load file: "cfg/sourcemod/gokz/gokz.cfg". Check that it exists.
+L 06/09/2022 - 12:22:14: [SM] Blaming: gokz-core.smx
+L 06/09/2022 - 12:22:14: [SM] Call stack trace:
+L 06/09/2022 - 12:22:14: [SM]   [0] SetFailState
+L 06/09/2022 - 12:22:14: [SM]   [1] Line 20, gokz-core/misc.sp::OnMapStart_KZConfig
+L 06/09/2022 - 12:22:14: [SM]   [2] Line 336, gokz-core.sp::OnMapStart
+L 06/09/2022 - 12:22:41: Error log file session closed.
+L 06/09/2022 - 12:22:42: SourceMod error session started
+L 06/09/2022 - 12:22:42: Info (map "kz_rectangle") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 12:22:42: [SM] Exception reported: Failed to load file: "cfg/sourcemod/gokz/gokz.cfg". Check that it exists.
+L 06/09/2022 - 12:22:42: [SM] Blaming: gokz-core.smx
+L 06/09/2022 - 12:22:42: [SM] Call stack trace:
+L 06/09/2022 - 12:22:42: [SM]   [0] SetFailState
+L 06/09/2022 - 12:22:42: [SM]   [1] Line 20, gokz-core/misc.sp::OnMapStart_KZConfig
+L 06/09/2022 - 12:22:42: [SM]   [2] Line 336, gokz-core.sp::OnMapStart
+L 06/09/2022 - 12:23:11: Error log file session closed.
+L 06/09/2022 - 12:23:12: SourceMod error session started
+L 06/09/2022 - 12:23:12: Info (map "kz_redemption_csgo") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 12:23:12: [SM] Exception reported: Failed to load file: "cfg/sourcemod/gokz/gokz.cfg". Check that it exists.
+L 06/09/2022 - 12:23:12: [SM] Blaming: gokz-core.smx
+L 06/09/2022 - 12:23:12: [SM] Call stack trace:
+L 06/09/2022 - 12:23:12: [SM]   [0] SetFailState
+L 06/09/2022 - 12:23:12: [SM]   [1] Line 20, gokz-core/misc.sp::OnMapStart_KZConfig
+L 06/09/2022 - 12:23:12: [SM]   [2] Line 336, gokz-core.sp::OnMapStart
+L 06/09/2022 - 12:23:42: Error log file session closed.
+L 06/09/2022 - 12:23:43: SourceMod error session started
+L 06/09/2022 - 12:23:43: Info (map "kz_redline") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 12:23:43: [SM] Exception reported: Failed to load file: "cfg/sourcemod/gokz/gokz.cfg". Check that it exists.
+L 06/09/2022 - 12:23:43: [SM] Blaming: gokz-core.smx
+L 06/09/2022 - 12:23:43: [SM] Call stack trace:
+L 06/09/2022 - 12:23:43: [SM]   [0] SetFailState
+L 06/09/2022 - 12:23:43: [SM]   [1] Line 20, gokz-core/misc.sp::OnMapStart_KZConfig
+L 06/09/2022 - 12:23:43: [SM]   [2] Line 336, gokz-core.sp::OnMapStart
+L 06/09/2022 - 12:23:50: Error log file session closed.
+L 06/09/2022 - 12:23:57: SourceMod error session started
+L 06/09/2022 - 12:23:57: Info (map "kz_refract") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 12:23:57: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 12:23:57: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 12:23:58: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 12:24:00: Error log file session closed.
+L 06/09/2022 - 12:24:04: SourceMod error session started
+L 06/09/2022 - 12:24:04: Info (map "kz_refract") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 12:24:04: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 12:24:04: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 12:27:56: Error log file session closed.
+L 06/09/2022 - 12:28:03: SourceMod error session started
+L 06/09/2022 - 12:28:03: Info (map "kz_refract") (file "/root/kz-server/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 12:28:03: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 12:28:03: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 13:26:52: SourceMod error session started
+L 06/09/2022 - 13:26:52: Info (map "kz_rectangle") (file "/root/kz-sv/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 13:26:52: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 13:27:19: Error log file session closed.
+L 06/09/2022 - 13:27:22: SourceMod error session started
+L 06/09/2022 - 13:27:22: Info (map "kz_rectangle") (file "/root/kz-sv/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 13:27:22: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 13:27:23: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 13:28:57: Error log file session closed.
+L 06/09/2022 - 13:29:00: SourceMod error session started
+L 06/09/2022 - 13:29:00: Info (map "kz_rectangle") (file "/root/kz-sv/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 13:29:00: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 13:29:01: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 13:29:37: Error log file session closed.
+L 06/09/2022 - 13:29:41: SourceMod error session started
+L 06/09/2022 - 13:29:41: Info (map "kz_rectangle") (file "/root/kz-sv/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 13:29:41: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 13:29:41: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 13:29:52: Error log file session closed.
+L 06/09/2022 - 13:29:55: SourceMod error session started
+L 06/09/2022 - 13:29:55: Info (map "kz_rectangle") (file "/root/kz-sv/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 13:29:55: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 13:29:55: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 13:31:06: Error log file session closed.
+L 06/09/2022 - 13:32:12: SourceMod error session started
+L 06/09/2022 - 13:32:12: Info (map "kz_rectangle") (file "/root/kz-sv/csgo/addons/sourcemod/logs/errors_20220609.log")
+L 06/09/2022 - 13:32:12: [gokz-global.smx] Failed to check API key with Global API.
+L 06/09/2022 - 13:33:11: Error log file session closed.

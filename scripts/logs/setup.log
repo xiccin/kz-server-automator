@@ -1,0 +1,106 @@
+
+Hit:1 http://security.debian.org/debian-security bullseye-security InRelease
+Hit:2 http://deb.debian.org/debian bullseye InRelease
+Hit:3 http://deb.debian.org/debian bullseye-updates InRelease
+Reading package lists...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+ack is already the newest version (3.4.0-1).
+bzip2 is already the newest version (1.0.8-4).
+curl is already the newest version (7.74.0-1.3+deb11u1).
+file is already the newest version (1:5.39-3).
+locales is already the newest version (2.31-13+deb11u3).
+net-tools is already the newest version (1.60+git20181103.0eebece-1).
+p7zip-full is already the newest version (16.02+dfsg-8).
+procps is already the newest version (2:3.3.17-5).
+rsync is already the newest version (3.2.3-4+deb11u1).
+screen is already the newest version (4.8.0-6).
+tar is already the newest version (1.34+dfsg-1).
+vim is already the newest version (2:8.2.2434-3+deb11u1).
+wget is already the newest version (1.21-1+deb11u1).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+libgcc-s1 is already the newest version (10.2.1-6).
+libstdc++6 is already the newest version (10.2.1-6).
+libc6 is already the newest version (2.31-13+deb11u3).
+libncurses5 is already the newest version (6.2+20201114-2).
+libgcc-s1:i386 is already the newest version (10.2.1-6).
+libstdc++6:i386 is already the newest version (10.2.1-6).
+libc6:i386 is already the newest version (2.31-13+deb11u3).
+libncurses5:i386 is already the newest version (6.2+20201114-2).
+zlib1g is already the newest version (1:1.2.11.dfsg-2+deb11u1).
+zlib1g:i386 is already the newest version (1:1.2.11.dfsg-2+deb11u1).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+mkdir: cannot create directory '/root/steamcmd': File exists
+mkdir: cannot create directory '/root/kz-sv': File exists
+--2022-06-09 13:39:43--  https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz
+Resolving steamcdn-a.akamaihd.net (steamcdn-a.akamaihd.net)... 23.58.95.155, 23.58.95.144
+Connecting to steamcdn-a.akamaihd.net (steamcdn-a.akamaihd.net)|23.58.95.155|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2428561 (2.3M) [application/octet-stream]
+Saving to: 'steamcmd.tar.gz'
+
+     0K .......... .......... .......... .......... ..........  2%  935K 2s
+    50K .......... .......... .......... .......... ..........  4% 3.27M 2s
+   100K .......... .......... .......... .......... ..........  6%  943K 2s
+   150K .......... .......... .......... .......... ..........  8% 3.92M 1s
+   200K .......... .......... .......... .......... .......... 10% 2.64M 1s
+   250K .......... .......... .......... .......... .......... 12% 2.30M 1s
+   300K .......... .......... .......... .......... .......... 14% 4.21M 1s
+   350K .......... .......... .......... .......... .......... 16% 3.76M 1s
+   400K .......... .......... .......... .......... .......... 18% 3.84M 1s
+   450K .......... .......... .......... .......... .......... 21% 6.88M 1s
+   500K .......... .......... .......... .......... .......... 23% 6.02M 1s
+   550K .......... .......... .......... .......... .......... 25% 9.33M 1s
+   600K .......... .......... .......... .......... .......... 27% 7.50M 1s
+   650K .......... .......... .......... .......... .......... 29% 7.99M 1s
+   700K .......... .......... .......... .......... .......... 31% 6.17M 1s
+   750K .......... .......... .......... .......... .......... 33% 22.1M 0s
+   800K .......... .......... .......... .......... .......... 35% 7.81M 0s
+   850K .......... .......... .......... .......... .......... 37% 10.0M 0s
+   900K .......... .......... .......... .......... .......... 40% 10.0M 0s
+   950K .......... .......... .......... .......... .......... 42% 8.42M 0s
+  1000K .......... .......... .......... .......... .......... 44% 10.9M 0s
+  1050K .......... .......... .......... .......... .......... 46% 16.4M 0s
+  1100K .......... .......... .......... .......... .......... 48% 12.2M 0s
+  1150K .......... .......... .......... .......... .......... 50% 14.1M 0s
+  1200K .......... .......... .......... .......... .......... 52% 16.8M 0s
+  1250K .......... .......... .......... .......... .......... 54% 14.8M 0s
+  1300K .......... .......... .......... .......... .......... 56% 14.2M 0s
+  1350K .......... .......... .......... .......... .......... 59% 17.4M 0s
+  1400K .......... .......... .......... .......... .......... 61% 19.2M 0s
+  1450K .......... .......... .......... .......... .......... 63% 14.9M 0s
+  1500K .......... .......... .......... .......... .......... 65% 24.7M 0s
+  1550K .......... .......... .......... .......... .......... 67% 20.5M 0s
+  1600K .......... .......... .......... .......... .......... 69% 23.2M 0s
+  1650K .......... .......... .......... .......... .......... 71% 15.8M 0s
+  1700K .......... .......... .......... .......... .......... 73% 24.9M 0s
+  1750K .......... .......... .......... .......... .......... 75% 15.2M 0s
+  1800K .......... .......... .......... .......... .......... 78% 19.8M 0s
+  1850K .......... .......... .......... .......... .......... 80% 53.8M 0s
+  1900K .......... .......... .......... .......... .......... 82% 20.4M 0s
+  1950K .......... .......... .......... .......... .......... 84% 23.9M 0s
+  2000K .......... .......... .......... .......... .......... 86% 23.4M 0s
+  2050K .......... .......... .......... .......... .......... 88% 19.6M 0s
+  2100K .......... .......... .......... .......... .......... 90% 37.7M 0s
+  2150K .......... .......... .......... .......... .......... 92% 19.5M 0s
+  2200K .......... .......... .......... .......... .......... 94% 26.2M 0s
+  2250K .......... .......... .......... .......... .......... 96% 36.4M 0s
+  2300K .......... .......... .......... .......... .......... 99% 19.6M 0s
+  2350K .......... .......... .                               100% 60.1M=0.3s
+
+2022-06-09 13:39:44 (6.69 MB/s) - 'steamcmd.tar.gz' saved [2428561/2428561]
+
+steamcmd.sh
+linux32/steamcmd
+linux32/steamerrorreporter
+linux32/libstdc++.so.6
+linux32/crashhandler.so
