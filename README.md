@@ -4,7 +4,7 @@ for local sv:
 port 80 should be unused, docker-compose installed,
 
 for public sv:
-port 80 should be unused, docker-compose installed, ip should be static static, port specified in container-bootstrap.sh should be forwarded correctly, domain should point to your public ip. just change csgo gslt and domain without http://
+port 80 should be unused, docker-compose installed, ip should be static, port specified in container-bootstrap.sh should be forwarded correctly, domain should point to your public ip. just change csgo gslt and domain without http://
 
 clone the repo:
 ```
