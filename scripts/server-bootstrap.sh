@@ -2,6 +2,7 @@
 
 cd $SV_DIR
 ./srcds_run -game csgo \
+    +ip 0.0.0.0 \
     -port $SV_PORT \
     -console \
     -tickrate 128 \
