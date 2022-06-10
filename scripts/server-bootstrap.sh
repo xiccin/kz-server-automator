@@ -9,5 +9,6 @@ cd $SV_DIR
     -maxplayers_override $SV_MAXPLAYERS \
     -net_port_try 1 \
     +sv_hibernate_when_empty 0 \
-    +map $SV_DEFAULTMAP
+    +map $SV_DEFAULTMAP \
+    -debug
     
