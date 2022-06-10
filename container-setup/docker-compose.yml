@@ -16,7 +16,7 @@ services:
     
     environment:
 
-      PATH: "/root/scripts:/sbin:$PATH"
+      PATH: "/root/scripts:/usr/sbin:/sbin:$PATH"
       TERM: "xterm-256color"
       SV_NAME: "${name}"
       SV_DIR: "/root/${name}"
