@@ -5,6 +5,7 @@ globalapi-key.cfg
 data/csgo/addons/sourcemod/data/gokz-replays
 data/fastdl/maps/*
 
+!gokz-replays.nav
 !kzlj-sqlite.sq3
 !kz_rectangle.*
 !bkz_bonus_z1.*
