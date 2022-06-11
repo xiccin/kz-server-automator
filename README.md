@@ -1,25 +1,79 @@
-requirements:
+### What is it?
+A set of bash scripts to quickly deploy a GOKZ server with FastDL inside a docker container. <br>
+All you need is this repo, and docker-compose installed.
+<br><br>
 
-for local sv:
-port 80 should be unused, docker-compose installed,
 
-for public sv:
-port 80 should be unused, docker-compose installed, ip should be static, port specified in container-bootstrap.sh should be forwarded correctly, domain should point to your public ip. just change csgo gslt and domain without http://
+### Why does it exist?
+Because automation is cool...<br>
+(and you don't need to waste time)
+<br><br>
 
-clone the repo:
+
+### Requirements:
+____________
+
+##### For local server:
+- specified csgo port and port 80 should be unused.
+
+##### For public server:
+- specified csgo port and port 80 should be unused.
+- all the ports specified should be forwarded correctly.
+- ip should be static
+<br><br>
+
+
+### Instructions:
+____________
+
+#### How do I install docker-compose?
+Here: https://command-not-found.com/docker-compose
+<br><br>
+
+
+#### To setup local server:
+- clone the repo:
 ```
 git clone https://github.com/xiccin/kz-server-automator
 ```
+<br>
 
-
-edit csgo_glst in container-bootstrap.sh
+- replace csgo_glst token with yours:
 ```
 cd kz-server-automator/container-setup
 vim container-bootstrap.sh
 ```
+<br>
 
-
-run 
+- run 
 ```
 ./container-bootstrap.sh console
 ```
+<br><br>
+
+#### To setup a public server:
+- clone the repo:
+```
+git clone https://github.com/xiccin/kz-server-automator
+```
+<br>
+
+- replace csgo_glst token with yours:
+- replace domain with your domain or public ip.
+```
+cd kz-server-automator/container-setup
+vim container-bootstrap.sh
+```
+<br>
+
+- run 
+```
+./container-bootstrap.sh console
+```
+<br>
+
+- run 
+```
+./container-bootstrap.sh console
+```
+<br><br>

@@ -5,6 +5,7 @@ apt-get update -y &>> /root/scripts/logs/setup.log
 
 echo "[*] installin nginx"
 apt install nginx -y &>> /root/scripts/logs/setup.log
+ln -fs /root/data/nginx.conf /etc/nginx/nginx.conf 
 
 echo "[*] preparing root"
 ln -fs /root/data/fastdl/maps $SV_DIR/csgo/maps
