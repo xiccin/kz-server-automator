@@ -8,6 +8,9 @@ data/fastdl/maps/*
 
 !gokz-replays.nav
 !kzlj-sqlite.sq3
+!kzMaps-sqlite.sq3
+
+!gokz-replays.nav
 !kz_rectangle.*
 !bkz_bonus_z1.*
 !kz_refract.*
